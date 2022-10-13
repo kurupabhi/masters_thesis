@@ -1,0 +1,2417 @@
+"sku","product_name","edition","season","colour_pantone","smell_code"
+"10101DE",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101DE-L",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101DE-M",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101DE-S",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101FR",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101FR-L",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101FR-M",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101FR-S",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101IT",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101IT-L",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101IT-M",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101IT-S",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101UK",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101UK-L",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101UK-M",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10101UK-S",Cookies & Cream,classic,all_year,"7506C","18123F"
+"10102FR",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10102FR-L",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10102FR-M",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10102FR-S",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10102IT-L",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10102IT-M",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10102IT-S",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10102UK-L",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10102UK-M",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10102UK-S",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10105DE",Happy Birthday,classic,all_year,"241C","18123F"
+"10105DE-L",Happy Birthday,classic,all_year,"241C","18123F"
+"10105DE-M",Happy Birthday,classic,all_year,"241C","18123F"
+"10105DE-S",Happy Birthday,classic,all_year,"241C","18123F"
+"10105FR",Happy Birthday,classic,all_year,"241C","18123F"
+"10105FR-L",Happy Birthday,classic,all_year,"241C","18123F"
+"10105FR-M",Happy Birthday,classic,all_year,"241C","18123F"
+"10105FR-S",Happy Birthday,classic,all_year,"241C","18123F"
+"10105IT",Happy Birthday,classic,all_year,"241C","18123F"
+"10105IT-L",Happy Birthday,classic,all_year,"241C","18123F"
+"10105IT-M",Happy Birthday,classic,all_year,"241C","18123F"
+"10105IT-S",Happy Birthday,classic,all_year,"241C","18123F"
+"10105UK",Happy Birthday,classic,all_year,"241C","18123F"
+"10105UK-L",Happy Birthday,classic,all_year,"241C","18123F"
+"10105UK-M",Happy Birthday,classic,all_year,"241C","18123F"
+"10105UK-S",Happy Birthday,classic,all_year,"241C","18123F"
+"10106DE",Passion Fruit,classic,summer,"3945C","13/2304"
+"10106FR",Passion Fruit,classic,summer,"3945C","13/2304"
+"10106IT",Passion Fruit,classic,summer,"3945C","13/2304"
+"10106UK",Passion Fruit,classic,summer,"3945C","13/2304"
+"10107FR",Pink Cherry,classic,summer,"219C","26269F"
+"10107FR-L",Pink Cherry,classic,summer,"219C","26269F"
+"10107FR-M",Pink Cherry,classic,summer,"219C","26269F"
+"10107FR-S",Pink Cherry,classic,summer,"219C","26269F"
+"10107FR-XS",Pink Cherry,classic,summer,"219C","26269F"
+"10107IT",Pink Cherry,classic,summer,"219C","26269F"
+"10107IT-L",Pink Cherry,classic,summer,"219C","26269F"
+"10107IT-M",Pink Cherry,classic,summer,"219C","26269F"
+"10107IT-S",Pink Cherry,classic,summer,"219C","26269F"
+"10107UK",Pink Cherry,classic,summer,"219C","26269F"
+"10108DE",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10108DE-L",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10108DE-M",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10108DE-S",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10108FR",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10108FR-L",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10108FR-M",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10108FR-S",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10108IT",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10108IT-L",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10108IT-M",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10108IT-S",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10108UK",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"101105DE",Happy Birthday,swarovski,all_year,"241C","18123F"
+"101106DE",Pomegranate Lemonade,classic,summer,"1935C","14-0005009"
+"101106DE-L",Pomegranate Lemonade,classic,summer,"1935C","14-0005009"
+"101106DE-M",Pomegranate Lemonade,classic,summer,"1935C","14-0005009"
+"101106DE-S",Pomegranate Lemonade,classic,summer,"1935C","14-0005009"
+"101106FR",Pomegranate Lemonade,classic,summer,"1935C","14-0005009"
+"101106IT",Pomegranate Lemonade,classic,summer,"1935C","14-0005009"
+"101106UK",Pomegranate Lemonade,classic,summer,"1935C","14-0005009"
+"101107DE",Wild Flowers,classic,summer,"1905C",EAD26537/00
+"101107FR",Wild Flowers,classic,summer,"1905C",EAD26537/00
+"101109DE",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"101109DE-L",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"101109DE-M",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"101109DE-S",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"101109DE-XS",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"101109FR",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"101109FR-L",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"101109FR-M",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"101109FR-S",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"101109IT",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"101109UK",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"10110FR",True Love,classic,all_year,"7427C","22951F"
+"10110FR-L",True Love,classic,all_year,"7427C","22951F"
+"10110FR-M",True Love,classic,all_year,"7427C","22951F"
+"10110FR-S",True Love,classic,all_year,"7427C","22951F"
+"10110IT",True Love,classic,all_year,"7427C","22951F"
+"10110IT-L",True Love,classic,all_year,"7427C","22951F"
+"10110IT-M",True Love,classic,all_year,"7427C","22951F"
+"10110IT-S",True Love,classic,all_year,"7427C","22951F"
+"10110UK",True Love,classic,all_year,"7427C","22951F"
+"10110UK-L",True Love,classic,all_year,"7427C","22951F"
+"10110UK-M",True Love,classic,all_year,"7427C","22951F"
+"10110UK-S",True Love,classic,all_year,"7427C","22951F"
+"101110DE",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"101110DE-L",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"101110DE-M",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"101110DE-S",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"101110FR",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"101110FR-L",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"101110FR-M",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"101110FR-S",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"10111FR",Fruity Watermelon,classic,summer,"702C","13/3714"
+"10111FR-L",Fruity Watermelon,classic,summer,"702C","13/3714"
+"10111FR-M",Fruity Watermelon,classic,summer,"702C","13/3714"
+"10111FR-S",Fruity Watermelon,classic,summer,"702C","13/3714"
+"10111IT",Fruity Watermelon,classic,summer,"702C","13/3714"
+"10111UK ",Fruity Watermelon,classic,summer,"702C","13/3714"
+"101121DE",True Love,swarovski,all_year,"7427C","22951F"
+"101123DE",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101123DE-L",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101123DE-M",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101123DE-S",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101123FR",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101123FR-L",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101123FR-M",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101123FR-S",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101123IT",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101123IT-L",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101123IT-M",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101123IT-S",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101123UK",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"101124DE",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101124DE-L",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101124DE-M",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101124DE-S",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101124FR",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101124FR-L",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101124FR-M",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101124FR-S",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101124IT",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101124IT-L",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101124IT-M",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101124IT-S",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101124UK",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"101125DE",Sweet Angel,classic,winter,"1225C",A258752
+"101125DE-L",Sweet Angel,classic,winter,"1225C",A258752
+"101125DE-M",Sweet Angel,classic,winter,"1225C",A258752
+"101125DE-S",Sweet Angel,classic,winter,"1225C",A258752
+"101125FR",Sweet Angel,classic,winter,"1225C",A258752
+"101125FR-L",Sweet Angel,classic,winter,"1225C",A258752
+"101125FR-M",Sweet Angel,classic,winter,"1225C",A258752
+"101125FR-S",Sweet Angel,classic,winter,"1225C",A258752
+"101125IT",Sweet Angel,classic,winter,"1225C",A258752
+"101125UK",Sweet Angel,classic,winter,"1225C",A258752
+"101126DE",Speculoos Cookies,classic,winter,"7412C","335094"
+"101126DE-L",Speculoos Cookies,classic,winter,"7412C","335094"
+"101126DE-M",Speculoos Cookies,classic,winter,"7412C","335094"
+"101126DE-S",Speculoos Cookies,classic,winter,"7412C","335094"
+"101126FR",Speculoos Cookies,classic,winter,"7412C","335094"
+"101126FR-L",Speculoos Cookies,classic,winter,"7412C","335094"
+"101126FR-M",Speculoos Cookies,classic,winter,"7412C","335094"
+"101126FR-S",Speculoos Cookies,classic,winter,"7412C","335094"
+"101126UK",Speculoos Cookies,classic,winter,"7412C","335094"
+"101127DE",Winter Wonderland,classic,winter,"0","239171"
+"101127DE-L",Winter Wonderland,classic,winter,"0","239171"
+"101127DE-M",Winter Wonderland,classic,winter,"0","239171"
+"101127DE-S",Winter Wonderland,classic,winter,"0","239171"
+"101127FR",Winter Wonderland,classic,winter,"0","239171"
+"101127FR-L",Winter Wonderland,classic,winter,"0","239171"
+"101127FR-M",Winter Wonderland,classic,winter,"0","239171"
+"101127FR-S",Winter Wonderland,classic,winter,"0","239171"
+"101127IT",Winter Wonderland,classic,winter,"0","239171"
+"101127IT-L",Winter Wonderland,classic,winter,"0","239171"
+"101127IT-M",Winter Wonderland,classic,winter,"0","239171"
+"101127IT-S",Winter Wonderland,classic,winter,"0","239171"
+"101127UK",Winter Wonderland,classic,winter,"0","239171"
+"101128DE",Pistacio Macarons,classic,all_year,"7478C",A299191
+"101128FR",Pistacio Macarons,classic,all_year,"7478C",A299191
+"101128FR-L",Pistacio Macarons,classic,all_year,"7478C",A299191
+"101128FR-M",Pistacio Macarons,classic,all_year,"7478C",A299191
+"101128FR-S",Pistacio Macarons,classic,all_year,"7478C",A299191
+"101128IT",Pistacio Macarons,classic,all_year,"7478C",A299191
+"101128IT-L",Pistacio Macarons,classic,all_year,"7478C",A299191
+"101128IT-M",Pistacio Macarons,classic,all_year,"7478C",A299191
+"101128IT-S",Pistacio Macarons,classic,all_year,"7478C",A299191
+"101128UK",Pistacio Macarons,classic,all_year,"7478C",A299191
+"101129DE",Cinnamon Orange,swarovski,winter,"1495C","1310542"
+"101136DE",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"101136DE-L",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"101136DE-M",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"101136DE-S",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"101136IT",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"101137IT",Good Luck,classic,all_year,"2420C","15-0012354"
+"101137UK",Good Luck,classic,all_year,"2420C","15-0012354"
+"101138DE",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138DE-L",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138DE-M",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138DE-S",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138FR",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138FR-L",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138FR-M",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138FR-S",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138IT-L",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138IT-M",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138IT-S",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138UK",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138UK-L",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138UK-M",My Favorite Person,classic,all_year,"1787C","22966F"
+"101138UK-S",My Favorite Person,classic,all_year,"1787C","22966F"
+"101139DE",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139DE-L",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139DE-M",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139DE-S",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139FR",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139FR-L",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139FR-M",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139FR-S",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139IT",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139IT-L",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139IT-M",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139IT-S",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139UK",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139UK-L",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139UK-M",Fluffy Cotton,classic,all_year,"0","29383F"
+"101139UK-S",Fluffy Cotton,classic,all_year,"0","29383F"
+"101140DE",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101140DE-L",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101140DE-M",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101140DE-S",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101140FR",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101140FR-L",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101140FR-M",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101140FR-S",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101140FR-XS",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101140IT-L",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101140IT-M",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101140IT-S",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101140UK",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"101141DE",French Lavender,classic,summer,"7440C","29668F"
+"101142DE",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"101142DE-L",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"101142DE-M",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"101142DE-S",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"101142FR",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"101142UK",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"101143DE",Happy Summer,classic,summer,"396C","12/0004031"
+"101143FR",Happy Summer,classic,summer,"396C","12/0004031"
+"101143IT",Happy Summer,classic,summer,"396C","12/0004031"
+"101143UK",Happy Summer,classic,summer,"396C","12/0004031"
+"101144DE",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"101144FR",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"101144FR-L",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"101144FR-M",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"101144FR-S",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"101144IT",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"101144UK",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"101145DE-L",Tropical Peach,classic,summer,"134C",EAD26532/00
+"101145DE-M",Tropical Peach,classic,summer,"134C",EAD26532/00
+"101145DE-S",Tropical Peach,classic,summer,"134C",EAD26532/00
+"101145DE-XS",Tropical Peach,classic,summer,"134C",EAD26532/00
+"101145FR",Tropical Peach,classic,summer,"134C",EAD26532/00
+"101145FR-L",Tropical Peach,classic,summer,"134C",EAD26532/00
+"101145FR-M",Tropical Peach,classic,summer,"134C",EAD26532/00
+"101145FR-S",Tropical Peach,classic,summer,"134C",EAD26532/00
+"101145FR-XS",Tropical Peach,classic,summer,"134C",EAD26532/00
+"101145UK",Tropical Peach,classic,summer,"134C",EAD26532/00
+"101146DE",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146DE-L",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146DE-M",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146DE-S",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146DE-XS",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146FR",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146FR-L",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146FR-M",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146FR-S",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146FR-XS",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146IT",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146IT-L",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146IT-M",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146IT-S",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101146UK",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"101149DE",Mulled Wine,swarovski,winter,"201C","12/0002487"
+"101156DE",Weihnachts-Kuschel,swarovski,all_year,"278C","23418F"
+"101157DE",Iced Blossom,classic,winter,"687C","17282F"
+"101157DE-L",Iced Blossom,classic,winter,"687C","17282F"
+"101157DE-M",Iced Blossom,classic,winter,"687C","17282F"
+"101157DE-S",Iced Blossom,classic,winter,"687C","17282F"
+"101157FR",Iced Blossom,classic,winter,"687C","17282F"
+"101157FR-L",Iced Blossom,classic,winter,"687C","17282F"
+"101157FR-M",Iced Blossom,classic,winter,"687C","17282F"
+"101157FR-S",Iced Blossom,classic,winter,"687C","17282F"
+"101157IT",Iced Blossom,classic,winter,"687C","17282F"
+"101157IT-L",Iced Blossom,classic,winter,"687C","17282F"
+"101157IT-M",Iced Blossom,classic,winter,"687C","17282F"
+"101157IT-S",Iced Blossom,classic,winter,"687C","17282F"
+"101157UK",Iced Blossom,classic,winter,"687C","17282F"
+"101158DE",Crispy Popcorn,classic,winter,"136C","09/903773"
+"101158FR",Crispy Popcorn,classic,winter,"136C","09/903773"
+"101158UK",Crispy Popcorn,classic,winter,"136C","09/903773"
+"101159FR",Amaretto Waffel,classic,winter,"486C","11/0003157"
+"101159IT",Amaretto Waffel,classic,winter,"486C","11/0003157"
+"101160DE",Toffee Delight,classic,winter,"388C","14/0002087"
+"101160FR",Toffee Delight,classic,winter,"388C","14/0002087"
+"101160IT",Toffee Delight,classic,winter,"388C","14/0002087"
+"101160UK",Toffee Delight,classic,winter,"388C","14/0002087"
+"101161DE",Rain Drops,classic,all_year,"7710C","29391F"
+"101161DE-L",Rain Drops,classic,all_year,"7710C","29391F"
+"101161DE-M",Rain Drops,classic,all_year,"7710C","29391F"
+"101161DE-S",Rain Drops,classic,all_year,"7710C","29391F"
+"101161FR",Rain Drops,classic,all_year,"7710C","29391F"
+"101162DE",Maple Syrup,classic,winter,"7416C","13/0003675"
+"101163DE",Snowflakes,classic,winter,"2455C","13/0005672"
+"101163DE-L",Snowflakes,classic,winter,"2455C","13/0005672"
+"101163DE-M",Snowflakes,classic,winter,"2455C","13/0005672"
+"101163DE-S",Snowflakes,classic,winter,"2455C","13/0005672"
+"101163FR",Snowflakes,classic,winter,"2455C","29300F"
+"101163FR-L",Snowflakes,classic,winter,"2455C","29300F"
+"101163FR-M",Snowflakes,classic,winter,"2455C","29300F"
+"101163FR-S",Snowflakes,classic,winter,"2455C","29300F"
+"101163IT",Snowflakes,classic,winter,"2455C","29300F"
+"101163IT-L",Snowflakes,classic,winter,"2455C","29300F"
+"101163IT-M",Snowflakes,classic,winter,"2455C","29300F"
+"101163IT-S",Snowflakes,classic,winter,"2455C","29300F"
+"101163UK",Snowflakes,classic,winter,"2455C","29300F"
+"101164DE",Roasted Coffee,classic,winter,"7591C","26161F"
+"101164FR",Roasted Coffee,classic,winter,"7591C","26161F"
+"101164IT",Roasted Coffee,classic,winter,"7591C","26161F"
+"101164UK",Roasted Coffee,classic,winter,"7591C","26161F"
+"101165DE",Mousse au Chocolat,classic,winter,"4735C","14/0001766"
+"101166DE",Vanilla Dreams,blogger,winter,"204C","248065"
+"101166DE-L",Vanilla Dreams,blogger,winter,"204C","248065"
+"101166DE-M",Vanilla Dreams,blogger,winter,"204C","248065"
+"101166DE-S",Vanilla Dreams,blogger,winter,"204C","248065"
+"101167DE-L",Christmas Cookies,blogger,winter,"225C","13/0002303"
+"101167DE-M",Christmas Cookies,blogger,winter,"225C","13/0002303"
+"101167DE-S",Christmas Cookies,blogger,winter,"225C","13/0002303"
+"101167FR-L",Just Fabulous,classic,summer,"310C","14-0004366"
+"101167FR-M",Just Fabulous,classic,summer,"310C","14-0004366"
+"101167FR-S",Just Fabulous,classic,summer,"310C","14-0004366"
+"101169DE-L",Forget Me Not,classic,summer,"2365C","14/0001493"
+"101169DE-M",Forget Me Not,classic,summer,"2365C","14/0001493"
+"101169DE-S",Forget Me Not,classic,summer,"2365C","14/0001493"
+"101169FR-L",Forget Me Not,classic,summer,"2365C","14/0001493"
+"101169FR-M",Forget Me Not,classic,summer,"2365C","14/0001493"
+"101169FR-S",Forget Me Not,classic,summer,"2365C","14/0001493"
+"101170DE",Candy Cane,swarovski,winter,"0","13/0001254"
+"101170DE-L",Fresh Lemonade,classic,summer,"583C","20275F"
+"101170DE-M",Fresh Lemonade,classic,summer,"583C","20275F"
+"101170DE-S",Fresh Lemonade,classic,summer,"583C","20275F"
+"101170FR",Fresh Lemonade,classic,summer,"583C","20275F"
+"101171FR-L","Bella, capricieuse, cute, funny, bad ass",classic,all_year,"805C","13/0002316"
+"101171FR-M","Bella, capricieuse, cute, funny, bad ass",classic,all_year,"805C","13/0002316"
+"101171FR-S","Bella, capricieuse, cute, funny, bad ass",classic,all_year,"805C","13/0002316"
+"101171IT-L","Bella, capricieuse, cute, funny, bad ass",classic,all_year,"805C","13/0002316"
+"101171IT-M","Bella, capricieuse, cute, funny, bad ass",classic,all_year,"805C","13/0002316"
+"101171IT-S","Bella, capricieuse, cute, funny, bad ass",classic,all_year,"805C","13/0002316"
+"101172DE-L",Juicy Mandarin,classic,summer,"170C","29673F"
+"101172DE-M",Juicy Mandarin,classic,summer,"170C","29673F"
+"101172DE-S",Juicy Mandarin,classic,summer,"170C","29673F"
+"101172FR-L",Juicy Mandarin,classic,summer,"170C","29673F"
+"101172FR-M",Juicy Mandarin,classic,summer,"170C","29673F"
+"101172FR-S",Juicy Mandarin,classic,summer,"170C","29673F"
+"101172IT-L",Juicy Mandarin,classic,summer,"170C","29673F"
+"101172IT-M",Juicy Mandarin,classic,summer,"170C","29673F"
+"101172IT-S",Juicy Mandarin,classic,summer,"170C","29673F"
+"101173DE-L",Matcha Latte,classic,summer,"2255C","13/0004738"
+"101173DE-M",Matcha Latte,classic,summer,"2255C","13/0004738"
+"101173DE-S",Matcha Latte,classic,summer,"2255C","13/0004738"
+"101173FR-L",Matcha Latte,classic,summer,"2255C","13/0004738"
+"101173FR-M",Matcha Latte,classic,summer,"2255C","13/0004738"
+"101173FR-S",Matcha Latte,classic,summer,"2255C","13/0004738"
+"101173IT-L",Matcha Latte,classic,summer,"2255C","13/0004738"
+"101173IT-M",Matcha Latte,classic,summer,"2255C","13/0004738"
+"101173IT-S",Matcha Latte,classic,summer,"2255C","13/0004738"
+"101174DE-L",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"101174DE-M",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"101174DE-S",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"101174FR-L",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"101174FR-M",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"101174FR-S",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"101174FR-XS",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"101174IT-L",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"101174IT-M",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"101174IT-S",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"101175DE-L",Pear Ice Cream,classic,summer,"580C","16/0018071"
+"101175DE-M",Pear Ice Cream,classic,summer,"580C","16/0018071"
+"101175DE-S",Pear Ice Cream,classic,summer,"580C","16/0018071"
+"101175FR-L",Pear Ice Cream,classic,summer,"580C","16/0018071"
+"101175FR-M",Pear Ice Cream,classic,summer,"580C","16/0018071"
+"101175FR-S",Pear Ice Cream,classic,summer,"580C","16/0018071"
+"101176DE-L",Pink Grapefruit,classic,summer,"1775C","276090"
+"101176DE-M",Pink Grapefruit,classic,summer,"1775C","276090"
+"101176DE-S",Pink Grapefruit,classic,summer,"1775C","276090"
+"101176FR-L",Pink Grapefruit,classic,summer,"1775C","276090"
+"101176FR-M",Pink Grapefruit,classic,summer,"1775C","276090"
+"101176FR-S",Pink Grapefruit,classic,summer,"1775C","276090"
+"101177DE-L",Cassis Sorbet,classic,summer,"2061C","14/0002304"
+"101177DE-M",Cassis Sorbet,classic,summer,"2061C","14/0002304"
+"101177DE-S",Cassis Sorbet,classic,summer,"2061C","14/0002304"
+"101177FR-L",Cassis Sorbet,classic,summer,"2061C","14/0002304"
+"101177FR-M",Cassis Sorbet,classic,summer,"2061C","14/0002304"
+"101177FR-S",Cassis Sorbet,classic,summer,"2061C","14/0002304"
+"101178DE-L",Bubble Gum,classic,summer,"806C","16/0019688"
+"101178DE-M",Bubble Gum,classic,summer,"806C","16/0019688"
+"101178DE-S",Bubble Gum,classic,summer,"806C","16/0019688"
+"101178FR-L",Bubble Gum,classic,summer,"806C","16/0019688"
+"101178FR-M",Bubble Gum,classic,summer,"806C","16/0019688"
+"101178FR-S",Bubble Gum,classic,summer,"806C","16/0019688"
+"101179DE-L",Hello Summer,classic,summer,"310C","14-0004366"
+"101179DE-M",Hello Summer,classic,summer,"310C","14-0004366"
+"101179DE-S",Hello Summer,classic,summer,"310C","14-0004366"
+"101180DE-L",Summer Love,classic,summer,"805C","14-0004366"
+"101180DE-M",Summer Love,classic,summer,"805C","14-0004366"
+"101180DE-S",Summer Love,classic,summer,"805C","14-0004366"
+"101185DE-L",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101185DE-M",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101185DE-S",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101185DE-XS",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101185FR",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101185FR-L",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101185FR-M",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101185FR-S",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101185FR-XS",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101185IT",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101185IT-L",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101185IT-M",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101185IT-S",Unicorn Candle,exclusive,all_year,"707C","248070"
+"101193DE-L",Frozen Berries,classic,winter,"513C","1142803"
+"101193DE-M",Frozen Berries,classic,winter,"513C","1142803"
+"101193DE-S",Frozen Berries,classic,winter,"513C","1142803"
+"101193FR",Frozen Berries,classic,winter,"513C","1142803"
+"101193FR-L",Frozen Berries,classic,winter,"513C","1142803"
+"101193FR-M",Frozen Berries,classic,winter,"513C","1142803"
+"101193FR-S",Frozen Berries,classic,winter,"513C","1142803"
+"101193IT-L",Frozen Berries,classic,winter,"513C","1142803"
+"101193IT-M",Frozen Berries,classic,winter,"513C","1142803"
+"101193IT-S",Frozen Berries,classic,winter,"513C","1142803"
+"101193UK",Frozen Berries,classic,winter,"513C","1142803"
+"101193UK-L",Frozen Berries,classic,winter,"513C","1142803"
+"101193UK-M",Frozen Berries,classic,winter,"513C","1142803"
+"101193UK-S",Frozen Berries,classic,winter,"513C","1142803"
+"101195DE-L",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101195DE-M",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101195DE-S",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101195FR-L",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101195FR-M",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101195FR-S",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101195IT-L",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101195IT-M",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101195IT-S",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101195UK",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101195UK-L",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101195UK-M",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101195UK-S",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"101196DE-L",Winter Sweets,classic,winter,"312C","281278"
+"101196DE-M",Winter Sweets,classic,winter,"312C","281278"
+"101196DE-S",Winter Sweets,classic,winter,"312C","281278"
+"101196FR-L",Winter Sweets,classic,winter,"312C","281278"
+"101196FR-M",Winter Sweets,classic,winter,"312C","281278"
+"101196FR-S",Winter Sweets,classic,winter,"312C","281278"
+"101196IT-L",Winter Sweets,classic,winter,"312C","281278"
+"101196IT-M",Winter Sweets,classic,winter,"312C","281278"
+"101196IT-S",Winter Sweets,classic,winter,"312C","281278"
+"101196UK",Winter Sweets,classic,winter,"312C","281278"
+"101196UK-L",Winter Sweets,classic,winter,"312C","281278"
+"101196UK-M",Winter Sweets,classic,winter,"312C","281278"
+"101196UK-S",Winter Sweets,classic,winter,"312C","281278"
+"101197DE-L",Jingle Bells,classic,winter,"131C","1251400"
+"101197DE-M",Jingle Bells,classic,winter,"131C","1251400"
+"101197DE-S",Jingle Bells,classic,winter,"131C","1251400"
+"101197FR-L",Jingle Bells,classic,winter,"131C","1251400"
+"101197FR-M",Jingle Bells,classic,winter,"131C","1251400"
+"101197FR-S",Jingle Bells,classic,winter,"131C","1251400"
+"101198DE-L",Let it Snow,classic,winter,"2397C",PF97340
+"101198DE-M",Let it Snow,classic,winter,"2397C",PF97340
+"101198DE-S",Let it Snow,classic,winter,"2397C",PF97340
+"101198FR",Let it Snow,classic,winter,"2397C",PF97340
+"101198FR-L",Let it Snow,classic,winter,"2397C",PF97340
+"101198FR-M",Let it Snow,classic,winter,"2397C",PF97340
+"101198FR-S",Let it Snow,classic,winter,"2397C",PF97340
+"101198IT-L",Let it Snow,classic,winter,"2397C",PF97340
+"101198IT-M",Let it Snow,classic,winter,"2397C",PF97340
+"101198IT-S",Let it Snow,classic,winter,"2397C",PF97340
+"101198UK",Let it Snow,classic,winter,"2397C",PF97340
+"101198UK-L",Let it Snow,classic,winter,"2397C",PF97340
+"101198UK-M",Let it Snow,classic,winter,"2397C",PF97340
+"101198UK-S",Let it Snow,classic,winter,"2397C",PF97340
+"101199DE-L",Christmas Bakery,classic,winter,"211C",AR289591
+"101199DE-M",Christmas Bakery,classic,winter,"211C",AR289591
+"101199DE-S",Christmas Bakery,classic,winter,"211C",AR289591
+"101199FR-L",Christmas Bakery,classic,winter,"211C",AR289591
+"101199FR-M",Christmas Bakery,classic,winter,"211C",AR289591
+"101199FR-S",Christmas Bakery,classic,winter,"211C",AR289591
+"101199IT-L",Christmas Bakery,classic,winter,"211C",AR289591
+"101199IT-M",Christmas Bakery,classic,winter,"211C",AR289591
+"101199IT-S",Christmas Bakery,classic,winter,"211C",AR289591
+"101199UK",Christmas Bakery,classic,winter,"211C",AR289591
+"101199UK-L",Christmas Bakery,classic,winter,"211C",AR289591
+"101199UK-M",Christmas Bakery,classic,winter,"211C",AR289591
+"101199UK-S",Christmas Bakery,classic,winter,"211C",AR289591
+"101201DE-L",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201DE-M",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201DE-S",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201FR",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201FR-L",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201FR-M",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201FR-S",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201IT-L",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201IT-M",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201IT-S",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201UK",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201UK-L",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201UK-M",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101201UK-S",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"101204DE-L",Non mais aloé quoi,exclusive,winter,"0921C","14/0000183"
+"101204DE-M",Non mais aloé quoi,exclusive,winter,"0921C","14/0000183"
+"101204DE-S",Non mais aloé quoi,exclusive,winter,"0921C","14/0000183"
+"101204FR-L",Non mais aloé quoi,exclusive,winter,"0921C","14/0000183"
+"101204FR-M",Non mais aloé quoi,exclusive,winter,"0921C","14/0000183"
+"101204FR-S",Non mais aloé quoi,exclusive,winter,"0921C","14/0000183"
+"101207DE",Marzipan Joy,blogger,winter,"7499C","12/0002921"
+"101207DE-L",Marzipan Joy,blogger,winter,"7499C","12/0002921"
+"101207DE-M",Marzipan Joy,blogger,winter,"7499C","12/0002921"
+"101207DE-S",Marzipan Joy,blogger,winter,"7499C","12/0002921"
+"101208DE",Cinnamon Star,blogger,winter,"2582C",A321174
+"101208DE-L",Cinnamon Star,blogger,winter,"2582C",A321174
+"101208DE-M",Cinnamon Star,blogger,winter,"2582C",A321174
+"101208DE-S",Cinnamon Star,blogger,winter,"2582C",A321174
+"101209DE",Mandarine Candy,blogger,winter,"179C",A255364
+"101209DE-L",Mandarine Candy,blogger,winter,"179C",A255364
+"101209DE-M",Mandarine Candy,blogger,winter,"179C",A255364
+"101209DE-S",Mandarine Candy,blogger,winter,"179C",A255364
+"10120DE",Lemon Grass,classic,summer,,
+"101214FR-L",Hello Beautiful,exclusive,winter,"305C",A341373
+"101214FR-M",Hello Beautiful,exclusive,winter,"305C",A341373
+"101214FR-S",Hello Beautiful,exclusive,winter,"305C",A341373
+"101215DE-L",MrsBella Candle,blogger,winter,"7415C","352637"
+"101215DE-M",MrsBella Candle,blogger,winter,"7415C","352637"
+"101215DE-S",MrsBella Candle,blogger,winter,"7415C","352637"
+"101218FR",Confidence,blogger,winter,"0","1251405"
+"101218FR-L",Confidence,blogger,winter,"0","1251405"
+"101218FR-M",Confidence,blogger,winter,"0","1251405"
+"101218FR-S",Confidence,blogger,winter,"0","1251405"
+"10121DE",True Love,classic,all_year,"7427C","22951F"
+"10121DE-L",True Love,classic,all_year,"7427C","22951F"
+"10121DE-M",True Love,classic,all_year,"7427C","22951F"
+"10121DE-S",True Love,classic,all_year,"7427C","22951F"
+"101223DE-L",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"101223DE-M",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"101223DE-S",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"101223FR-L",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"101223FR-M",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"101223FR-S",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"101223IT-L",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"101223IT-M",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"101223IT-S",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"101223UK-L",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"101223UK-M",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"101223UK-S",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"10122DE",Candy Floss,classic,all_year,"1767C","11062F"
+"10122DE-L",Candy Floss,classic,all_year,"1767C","11062F"
+"10122DE-M",Candy Floss,classic,all_year,"1767C","11062F"
+"10122DE-S",Candy Floss,classic,all_year,"1767C","11062F"
+"101232DE-L",MrsBella,blogger,summer,"427C","352637"
+"101232DE-M",MrsBella,blogger,summer,"427C","352637"
+"101232DE-S",MrsBella,blogger,summer,"427C","352637"
+"101234DE-L",So Berry,classic,summer,"7423C",R.171301.7
+"101234DE-M",So Berry,classic,summer,"7423C",R.171301.7
+"101234DE-S",So Berry,classic,summer,"7423C",R.171301.7
+"101234FR-L",So Berry,classic,summer,"7423C",R.171301.7
+"101234FR-M",So Berry,classic,summer,"7423C",R.171301.7
+"101234FR-S",So Berry,classic,summer,"7423C",R.171301.7
+"101234IT-L",So Berry,classic,summer,"7423C",R.171301.7
+"101234IT-M",So Berry,classic,summer,"7423C",R.171301.7
+"101234IT-S",So Berry,classic,summer,"7423C",R.171301.7
+"101234UK-L",So Berry,classic,summer,"7423C",R.171301.7
+"101234UK-M",So Berry,classic,summer,"7423C",R.171301.7
+"101234UK-S",So Berry,classic,summer,"7423C",R.171301.7
+"101235DE-L","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"101235DE-M","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"101235DE-S","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"101235FR-L","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"101235FR-M","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"101235FR-S","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"101235IT-L","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"101235IT-M","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"101235IT-S","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"101235UK-L","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"101235UK-M","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"101235UK-S","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"101236DE-L",Childhood Memories,classic,summer,"351C","19595F"
+"101236DE-M",Childhood Memories,classic,summer,"351C","19595F"
+"101236DE-S",Childhood Memories,classic,summer,"351C","19595F"
+"101236FR-L",Childhood Memories,classic,summer,"351C","19595F"
+"101236FR-M",Childhood Memories,classic,summer,"351C","19595F"
+"101236FR-S",Childhood Memories,classic,summer,"351C","19595F"
+"101236IT-L",Childhood Memories,classic,summer,"351C","19595F"
+"101236IT-M",Childhood Memories,classic,summer,"351C","19595F"
+"101236IT-S",Childhood Memories,classic,summer,"351C","19595F"
+"101236UK-L",Childhood Memories,classic,summer,"351C","19595F"
+"101236UK-M",Childhood Memories,classic,summer,"351C","19595F"
+"101236UK-S",Childhood Memories,classic,summer,"351C","19595F"
+"101237DE-L",Sugar Babe,classic,summer,"3572C",A310809
+"101237DE-M",Sugar Babe,classic,summer,"3572C",A310809
+"101237DE-S",Sugar Babe,classic,summer,"3572C",A310809
+"101237FR-L",Sugar Babe,classic,summer,"3572C",A310809
+"101237FR-M",Sugar Babe,classic,summer,"3572C",A310809
+"101237FR-S",Sugar Babe,classic,summer,"3572C",A310809
+"101237IT-L",Sugar Babe,classic,summer,"3572C",A310809
+"101237IT-M",Sugar Babe,classic,summer,"3572C",A310809
+"101237IT-S",Sugar Babe,classic,summer,"3572C",A310809
+"101237UK-L",Sugar Babe,classic,summer,"3572C",A310809
+"101237UK-M",Sugar Babe,classic,summer,"3572C",A310809
+"101237UK-S",Sugar Babe,classic,summer,"3572C",A310809
+"101238DE-L",Thai Orchid,classic,summer,"7437C","281280"
+"101238DE-M",Thai Orchid,classic,summer,"7437C","281280"
+"101238DE-S",Thai Orchid,classic,summer,"7437C","281280"
+"101238FR-L",Thai Orchid,classic,summer,"7437C","281280"
+"101238FR-M",Thai Orchid,classic,summer,"7437C","281280"
+"101238FR-S",Thai Orchid,classic,summer,"7437C","281280"
+"101238IT-L",Thai Orchid,classic,summer,"7437C","281280"
+"101238IT-M",Thai Orchid,classic,summer,"7437C","281280"
+"101238IT-S",Thai Orchid,classic,summer,"7437C","281280"
+"101238UK-L",Thai Orchid,classic,summer,"7437C","281280"
+"101238UK-M",Thai Orchid,classic,summer,"7437C","281280"
+"101238UK-S",Thai Orchid,classic,summer,"7437C","281280"
+"101239DE-L",Pina Colada,classic,summer,"0","29505F"
+"101239DE-M",Pina Colada,classic,summer,"0","29505F"
+"101239DE-S",Pina Colada,classic,summer,"0","29505F"
+"101239FR-L",Pina Colada,classic,summer,"0","29505F"
+"101239FR-M",Pina Colada,classic,summer,"0","29505F"
+"101239FR-S",Pina Colada,classic,summer,"0","29505F"
+"101239IT-L",Pina Colada,classic,summer,"0","29505F"
+"101239IT-M",Pina Colada,classic,summer,"0","29505F"
+"101239IT-S",Pina Colada,classic,summer,"0","29505F"
+"101239UK-L",Pina Colada,classic,summer,"0","29505F"
+"101239UK-M",Pina Colada,classic,summer,"0","29505F"
+"101239UK-S",Pina Colada,classic,summer,"0","29505F"
+"10123DE",Hawaiian Coconut,classic,summer,"0","230945"
+"101240DE-L",Mermazing,exclusive,summer,"3245C","288237"
+"101240DE-M",Mermazing,exclusive,summer,"3245C","288237"
+"101240DE-S",Mermazing,exclusive,summer,"3245C","288237"
+"101240FR-L",Mermazing,exclusive,summer,"3245C","288237"
+"101240FR-M",Mermazing,exclusive,summer,"3245C","288237"
+"101240FR-S",Mermazing,exclusive,summer,"3245C","288237"
+"101240IT-L",Mermazing,exclusive,summer,"3245C","288237"
+"101240IT-M",Mermazing,exclusive,summer,"3245C","288237"
+"101240IT-S",Mermazing,exclusive,summer,"3245C","288237"
+"101241DE-L",Panda Bear,exclusive,summer,"0",C284/M
+"101241DE-M",Panda Bear,exclusive,summer,"0",C284/M
+"101241DE-S",Panda Bear,exclusive,summer,"0",C284/M
+"101241FR-L",Panda Bear,exclusive,summer,"0",C284/M
+"101241FR-M",Panda Bear,exclusive,summer,"0",C284/M
+"101241FR-S",Panda Bear,exclusive,summer,"0",C284/M
+"101241IT-L",Panda Bear,exclusive,summer,"0",C284/M
+"101241IT-M",Panda Bear,exclusive,summer,"0",C284/M
+"101241IT-S",Panda Bear,exclusive,summer,"0",C284/M
+"10124DE",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10124DE-L",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10124DE-M",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10124DE-S",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"10125DE",Pink Cherry,classic,summer,"219C","26269F"
+"10125DE-L",Pink Cherry,classic,summer,"219C","26269F"
+"10125DE-M",Pink Cherry,classic,summer,"219C","26269F"
+"10125DE-S",Pink Cherry,classic,summer,"219C","26269F"
+"10125DE-XS",Pink Cherry,classic,summer,"219C","26269F"
+"101266DE-L",Fresh Lychee,classic,winter,"2029C","08/801627"
+"101266DE-M",Fresh Lychee,classic,winter,"2029C","08/801627"
+"101266DE-S",Fresh Lychee,classic,winter,"2029C","08/801627"
+"101266FR-L",Fresh Lychee,classic,winter,"2029C","08/801627"
+"101266FR-M",Fresh Lychee,classic,winter,"2029C","08/801627"
+"101266FR-S",Fresh Lychee,classic,winter,"2029C","08/801627"
+"101266FR-XS",Fresh Lychee,classic,winter,"2029C","08/801627"
+"101266IT-L",Fresh Lychee,classic,winter,"2029C","08/801627"
+"101266IT-M",Fresh Lychee,classic,winter,"2029C","08/801627"
+"101266IT-S",Fresh Lychee,classic,winter,"2029C","08/801627"
+"101266IT-XS",Fresh Lychee,classic,winter,"2029C","08/801627"
+"101267DE-L",Cozy Fireplace,classic,winter,"0","17/0005045"
+"101267DE-M",Cozy Fireplace,classic,winter,"0","17/0005045"
+"101267DE-S",Cozy Fireplace,classic,winter,"0","17/0005045"
+"101267FR-L",Cozy Fireplace,classic,winter,"0","17/0005045"
+"101267FR-M",Cozy Fireplace,classic,winter,"0","17/0005045"
+"101267FR-S",Cozy Fireplace,classic,winter,"0","17/0005045"
+"101267FR-XS",Cozy Fireplace,classic,winter,"0","17/0005045"
+"101267IT-L",Cozy Fireplace,classic,winter,"0","17/0005045"
+"101267IT-M",Cozy Fireplace,classic,winter,"0","17/0005045"
+"101267IT-S",Cozy Fireplace,classic,winter,"0","17/0005045"
+"101267IT-XS",Cozy Fireplace,classic,winter,"0","17/0005045"
+"101268DE-L",Magical Winter,classic,winter,"7436C","19772F"
+"101268DE-M",Magical Winter,classic,winter,"7436C","19772F"
+"101268DE-S",Magical Winter,classic,winter,"7436C","19772F"
+"101268FR-L",Magical Winter,classic,winter,"7436C","19772F"
+"101268FR-M",Magical Winter,classic,winter,"7436C","19772F"
+"101268FR-S",Magical Winter,classic,winter,"7436C","19772F"
+"101268FR-XS",Magical Winter,classic,winter,"7436C","19772F"
+"101268IT-L",Magical Winter,classic,winter,"7436C","19772F"
+"101268IT-M",Magical Winter,classic,winter,"7436C","19772F"
+"101268IT-S",Magical Winter,classic,winter,"7436C","19772F"
+"101268IT-XS",Magical Winter,classic,winter,"7436C","19772F"
+"101269DE-L",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"101269DE-M",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"101269DE-S",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"101269FR-L",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"101269FR-M",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"101269FR-S",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"101269FR-XS",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"101269IT-L",Hot Chestnuts,classic,winter,"471C","12330-401-5"
+"101269IT-M",Hot Chestnuts,classic,winter,"471C","12330-401-5"
+"101269IT-S",Hot Chestnuts,classic,winter,"471C","12330-401-5"
+"101269IT-XS",Hot Chestnuts,classic,winter,"471C","12330-401-5"
+"101271DE-L",Schoko-Minze,classic,winter,"344C","18/0001607"
+"101271DE-M",Schoko-Minze,classic,winter,"344C","18/0001607"
+"101271DE-S",Schoko-Minze,classic,winter,"344C","18/0001607"
+"101272DE-L",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"101272DE-M",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"101272DE-S",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"101272FR-L",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"101272FR-M",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"101272FR-S",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"101272FR-XS",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"101272IT-L",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"101272IT-M",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"101272IT-S",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"101272IT-XS",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"101273DE-L",Delicious Christmas,classic,winter,"7635C","17711F"
+"101273DE-M",Delicious Christmas,classic,winter,"7635C","17711F"
+"101273DE-S",Delicious Christmas,classic,winter,"7635C","17711F"
+"101274FR-L",Delicious Christmas,classic,winter,"7635C","17711F"
+"101274FR-M",Delicious Christmas,classic,winter,"7635C","17711F"
+"101274FR-S",Delicious Christmas,classic,winter,"7635C","17711F"
+"101274FR-XS",Delicious Christmas,classic,winter,"7635C","17711F"
+"101274IT-L",Delicious Christmas,classic,winter,"7635C","17711F"
+"101274IT-M",Delicious Christmas,classic,winter,"7635C","17711F"
+"101274IT-S",Delicious Christmas,classic,winter,"7635C","17711F"
+"101274IT-XS",Delicious Christmas,classic,winter,"7635C","17711F"
+"10127DE",Cuddle Candle,classic,all_year,"278C","23418F"
+"10127DE-L",Cuddle Candle,classic,all_year,"278C","23418F"
+"10127DE-M",Cuddle Candle,classic,all_year,"278C","23418F"
+"10127DE-S",Cuddle Candle,classic,all_year,"278C","23418F"
+"101288IT-L",Dolce Vita,exclusive,winter,"0","1251405"
+"101288IT-M",Dolce Vita,exclusive,winter,"0","1251405"
+"101288IT-S",Dolce Vita,exclusive,winter,"0","1251405"
+"10128DE",Ice Cream Orange,classic,summer,,
+"10129DE",Chocolate Dreamer,classic,all_year,"7562CP",A311019
+"10130DE",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"101315DE-L",Sangria Party,classic,summer,"148C",AL223571
+"101315DE-M",Sangria Party,classic,summer,"148C",AL223571
+"101315DE-S",Sangria Party,classic,summer,"148C",AL223571
+"101315FR-L",Sangria Party,classic,summer,"148C",AL223571
+"101315FR-M",Sangria Party,classic,summer,"148C",AL223571
+"101315FR-S",Sangria Party,classic,summer,"148C",AL223571
+"101315FR-XS",Sangria Party,classic,summer,"148C",AL223571
+"101315IT-L",Sangria Party,classic,summer,"148C",AL223571
+"101315IT-M",Sangria Party,classic,summer,"148C",AL223571
+"101315IT-S",Sangria Party,classic,summer,"148C",AL223571
+"101316DE-L",Fairy Dust,classic,summer,"2101C",AL223556
+"101316DE-M",Fairy Dust,classic,summer,"2101C",AL223556
+"101316DE-S",Fairy Dust,classic,summer,"2101C",AL223556
+"101316FR-L",Fairy Dust,classic,summer,"2101C",AL223556
+"101316FR-M",Fairy Dust,classic,summer,"2101C",AL223556
+"101316FR-S",Fairy Dust,classic,summer,"2101C",AL223556
+"101316FR-XS",Fairy Dust,classic,summer,"2101C",AL223556
+"101316IT-L",Fairy Dust,classic,summer,"2101C",AL223556
+"101316IT-M",Fairy Dust,classic,summer,"2101C",AL223556
+"101316IT-S",Fairy Dust,classic,summer,"2101C",AL223556
+"101317DE-L",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"101317DE-M",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"101317DE-S",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"101317FR-L",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"101317FR-M",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"101317FR-S",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"101317FR-XS",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"101317IT-L",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"101317IT-M",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"101317IT-S",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"101318DE-L",Life is a Beach,classic,summer,"284C",AL223563
+"101318DE-M",Life is a Beach,classic,summer,"284C",AL223563
+"101318DE-S",Life is a Beach,classic,summer,"284C",AL223563
+"101318FR-L",Life is a Beach,classic,summer,"284C",AL223563
+"101318FR-M",Life is a Beach,classic,summer,"284C",AL223563
+"101318FR-S",Life is a Beach,classic,summer,"284C",AL223563
+"101318FR-XS",Life is a Beach,classic,summer,"284C",AL223563
+"101318IT-L",Life is a Beach,classic,summer,"284C",AL223563
+"101318IT-M",Life is a Beach,classic,summer,"284C",AL223563
+"101318IT-S",Life is a Beach,classic,summer,"284C",AL223563
+"10132FR-L",Creme Brulee,classic,summer,"7411C","13/0005751"
+"10132FR-M",Creme Brulee,classic,summer,"7411C","13/0005751"
+"10132FR-S",Creme Brulee,classic,summer,"7411C","13/0005751"
+"10132IT-L",Creme Brulee,classic,summer,"7411C","13/0005751"
+"10132IT-M",Creme Brulee,classic,summer,"7411C","13/0005751"
+"10132IT-S",Creme Brulee,classic,summer,"7411C","13/0005751"
+"10134DE",Strawberry Cupcake,classic,summer,"199C","20401F"
+"10134DE-L",Strawberry Cupcake,classic,summer,"199C","20401F"
+"10134DE-M",Strawberry Cupcake,classic,summer,"199C","20401F"
+"10134DE-S",Strawberry Cupcake,classic,summer,"199C","20401F"
+"101359DE-L",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"101359DE-M",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"101359DE-S",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"101359FR-L",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"101359FR-M",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"101359FR-S",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"101359FR-XS",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"101359IT-L",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"101359IT-M",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"101359IT-S",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"10135DE",Erfrischende Orange,classic,summer,,
+"101360DE-L",Sweet Surprise,classic,winter,"0",GG2698
+"101360DE-M",Sweet Surprise,classic,winter,"0",GG2698
+"101360DE-S",Sweet Surprise,classic,winter,"0",GG2698
+"101360FR-L",Sweet Surprise,classic,winter,"0",GG2698
+"101360FR-M",Sweet Surprise,classic,winter,"0",GG2698
+"101360FR-S",Sweet Surprise,classic,winter,"0",GG2698
+"101360FR-XS",Sweet Surprise,classic,winter,"0",GG2698
+"101360IT-L",Sweet Surprise,classic,winter,"0",GG2698
+"101360IT-M",Sweet Surprise,classic,winter,"0",GG2698
+"101360IT-S",Sweet Surprise,classic,winter,"0",GG2698
+"10137DE",Fruchtige Feigen,classic,summer,,
+"10138DE",Ice Cream Erdbeere,classic,summer,,
+"10139DE",Litschi Zauber,classic,summer,,
+"10140DE",Mojito,classic,summer,,
+"10141DE",Pina Colada,classic,summer,"0","29505F"
+"10141UK",Pina Colada,classic,summer,"0","29505F"
+"10142DE",Fruity Watermelon,classic,summer,"702C","13/3714"
+"10142DE-L",Fruity Watermelon,classic,summer,"702C","13/3714"
+"10142DE-M",Fruity Watermelon,classic,summer,"702C","13/3714"
+"10142DE-S",Fruity Watermelon,classic,summer,"702C","13/3714"
+"10142DE-XS",Fruity Watermelon,classic,summer,"702C","13/3714"
+"10144DE",Spritzige Brombeere,classic,summer,,
+"10145DE",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"10148DE",Merry Christmas,classic,winter,"341CP",A282507
+"10149DE",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149DE-L",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149DE-M",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149DE-S",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149FR",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149FR-L",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149FR-M",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149FR-S",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149IT",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149IT-L",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149IT-M",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149IT-S",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149IT-XS",Mulled Wine,classic,winter,"201C","12/0002487"
+"10149UK",Mulled Wine,classic,winter,"201C","12/0002487"
+"10150DE",Happy New Year,classic,winter,,
+"10151DE",Gingerbread,classic,winter,"181C","24263F"
+"10152DE",Santa Claus,classic,winter,"032C","13/0001254"
+"10153DE",Cinnamon Bun,classic,winter,,"14708F"
+"10154DE",Vanilla Croissant,classic,winter,"7506C","17182F"
+"10154DE-L",Vanilla Croissant,classic,winter,"7506C","17182F"
+"10154DE-M",Vanilla Croissant,classic,winter,"7506C","17182F"
+"10154DE-S",Vanilla Croissant,classic,winter,"7506C","17182F"
+"10155DE",Baked Apple,classic,winter,"185C","12/0002331"
+"10155DE-L",Baked Apple,classic,winter,"185C","12/0002331"
+"10155DE-M",Baked Apple,classic,winter,"185C","12/0002331"
+"10155DE-S",Baked Apple,classic,winter,"185C","12/0002331"
+"10155FR",Baked Apple,classic,winter,"185C","12/0002331"
+"10155FR-L",Baked Apple,classic,winter,"185C","12/0002331"
+"10155FR-M",Baked Apple,classic,winter,"185C","12/0002331"
+"10155FR-S",Baked Apple,classic,winter,"185C","12/0002331"
+"10155IT",Baked Apple,classic,winter,"185C","12/0002331"
+"10156DE",Weihnachts-Kuschel,classic,winter,"278C","23418F"
+"10159FR",Strawberry Cupcake,classic,summer,"199C","20401F"
+"10159IT",Strawberry Cupcake,classic,summer,"199C","20401F"
+"10159UK",Strawberry Cupcake,classic,summer,"199C","20401F"
+"10163FR",Candy Floss,classic,all_year,"1767C","11062F"
+"10163FR-L",Candy Floss,classic,all_year,"1767C","11062F"
+"10163FR-M",Candy Floss,classic,all_year,"1767C","11062F"
+"10163FR-S",Candy Floss,classic,all_year,"1767C","11062F"
+"10163IT",Candy Floss,classic,all_year,"1767C","11062F"
+"10163IT-L",Candy Floss,classic,all_year,"1767C","11062F"
+"10163IT-M",Candy Floss,classic,all_year,"1767C","11062F"
+"10163IT-S",Candy Floss,classic,all_year,"1767C","11062F"
+"10163UK",Candy Floss,classic,all_year,"1767C","11062F"
+"10164FR",Cinnamon Bun,classic,winter,,"14708F"
+"10164IT",Cinnamon Bun,classic,winter,,"14708F"
+"10164UK",Cinnamon Bun,classic,winter,,"14708F"
+"10165DE-L",Merry Christmas,classic,winter,"341CP","12/0002194"
+"10165DE-M",Merry Christmas,classic,winter,"341CP","12/0002195"
+"10165DE-S",Merry Christmas,classic,winter,"341CP","12/0002196"
+"10165UK",Merry Christmas,classic,winter,"341CP",A282507
+"10166DE-L",Santa Claus,classic,winter,"032C","1142808"
+"10166DE-M",Santa Claus,classic,winter,"032C","1142808"
+"10166DE-S",Santa Claus,classic,winter,"032C","1142808"
+"10166UK",Santa Claus,classic,winter,"032C","13/0001254"
+"10167FR",Cuddle Candle,classic,all_year,"278C","23418F"
+"10167FR-L",Cuddle Candle,classic,all_year,"278C","23418F"
+"10167FR-M",Cuddle Candle,classic,all_year,"278C","23418F"
+"10167FR-S",Cuddle Candle,classic,all_year,"278C","23418F"
+"10167IT-L",Cuddle Candle,classic,all_year,"278C","23418F"
+"10167IT-M",Cuddle Candle,classic,all_year,"278C","23418F"
+"10167IT-S",Cuddle Candle,classic,all_year,"278C","23418F"
+"10167UK",Cuddle Candle,classic,all_year,"278C","23418F"
+"10167UK-L",Cuddle Candle,classic,all_year,"278C","23418F"
+"10167UK-M",Cuddle Candle,classic,all_year,"278C","23418F"
+"10167UK-S",Cuddle Candle,classic,all_year,"278C","23418F"
+"10170DE",Candy Cane,classic,winter,"0","13/0001254"
+"10172DE",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172DE-L",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172DE-M",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172DE-S",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172FR",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172FR-L",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172FR-M",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172FR-S",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172IT-L",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172IT-M",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172IT-S",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172UK ",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172UK-L",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172UK-M",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10172UK-S",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"10173DE",Pumpkin Spice,classic,winter,"137CP","09/902301"
+"10174FR",Chocolate Dreamer,classic,all_year,"7562CP",A311019
+"10174IT",Chocolate Dreamer,classic,all_year,"7562CP",A311019
+"10175DE",Zimtstern,classic,winter,"7573CP","14708F"
+"10177FR",Candy Cane,classic,winter,"0","13/0001254"
+"10177FR-L",Candy Cane,classic,winter,"0","13/0001254"
+"10177FR-M",Candy Cane,classic,winter,"0","13/0001254"
+"10177FR-S",Candy Cane,classic,winter,"0","13/0001254"
+"10177IT",Candy Cane,classic,winter,"0","13/0001254"
+"10178FR-L",Gingerbread,classic,winter,"181C","24263F"
+"10178FR-M",Gingerbread,classic,winter,"181C","24263F"
+"10178FR-S",Gingerbread,classic,winter,"181C","24263F"
+"10180FR",Pumpkin Spice,classic,winter,"137CP","09/902301"
+"10180IT",Pumpkin Spice,classic,winter,"137CP","09/902301"
+"10181FR",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"10181FR-L",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"10181FR-M",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"10181FR-S",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"10181IT",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"10181IT-L",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"10181IT-M",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"10181IT-S",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"10201DE",Cookies & Cream (No Glass),exclusive,all_year,"7506C","18123F"
+"10201FR",Cookies & Cream (No Glass),exclusive,all_year,"7506C","18123F"
+"10201IT",Cookies & Cream (No Glass),exclusive,all_year,"7506C","18123F"
+"10201UK",Cookies & Cream (No Glass),exclusive,all_year,"7506C","18123F"
+"10202FR",Creamy Vanilla (No Glass),exclusive,all_year,"7506C",EAD26540/00
+"10202IT",Creamy Vanilla (No Glass),exclusive,all_year,"7506C",EAD26540/00
+"10202UK",Creamy Vanilla (No Glass),exclusive,all_year,"7506C",EAD26540/00
+"10205DE",Happy Birthday (No Glass),exclusive,all_year,"241C","18123F"
+"10205FR",Happy Birthday (No Glass),exclusive,all_year,"241C","18123F"
+"10205IT",Happy Birthday (No Glass),exclusive,all_year,"241C","18123F"
+"10205UK",Happy Birthday (No Glass),exclusive,all_year,"241C","18123F"
+"10207FR",Pink Cherry (No Glass),exclusive,summer,"219C","26269F"
+"10207IT",Pink Cherry (No Glass),exclusive,summer,"219C","26269F"
+"10207UK",Pink Cherry (No Glass),exclusive,summer,"219C","26269F"
+"10210FR",True Love (No Glass),exclusive,all_year,"7427C","22951F"
+"10210IT",True Love (No Glass),exclusive,all_year,"7427C","22951F"
+"10210UK",True Love (No Glass),exclusive,all_year,"7427C","22951F"
+"10221DE",True Love (No Glass),exclusive,all_year,"7427C","22951F"
+"102220DE-L",XOXO,love,winter,"0",AR452415
+"102220DE-M",XOXO,love,winter,"0",AR452415
+"102220DE-S",XOXO,love,winter,"0",AR452415
+"102220FR-L",XOXO,love,winter,"0",AR452415
+"102220FR-M",XOXO,love,winter,"0",AR452415
+"102220FR-S",XOXO,love,winter,"0",AR452415
+"102220IT-L",XOXO,love,winter,"0",AR452415
+"102220IT-M",XOXO,love,winter,"0",AR452415
+"102220IT-S",XOXO,love,winter,"0",AR452415
+"10224DE",Creamy Vanilla (No Glass),exclusive,all_year,"7506C",EAD26540/00
+"10225DE",Pink Cherry (No Glass),exclusive,summer,"219C","26269F"
+"10227DE",Cuddle Candle (No Glass),exclusive,all_year,"278C","23418F"
+"102311FR-L",La Rêveuse,exclusive,winter,"2635C","11771-489-2"
+"102311FR-M",La Rêveuse,exclusive,winter,"2635C","11771-489-2"
+"102311FR-S",La Rêveuse,exclusive,winter,"2635C","11771-489-2"
+"102311FR-XS",La Rêveuse,exclusive,winter,"2635C","11771-489-2"
+"102351DE-L",Fairy Unicorn,exclusive,summer,"0",GG3721
+"102351DE-M",Fairy Unicorn,exclusive,summer,"0",GG3721
+"102351DE-S",Fairy Unicorn,exclusive,summer,"0",GG3721
+"102351DE-XS",Fairy Unicorn,exclusive,summer,"0",GG3721
+"102351FR-L",Fairy Unicorn,exclusive,summer,"0",GG3721
+"102351FR-M",Fairy Unicorn,exclusive,summer,"0",GG3721
+"102351FR-S",Fairy Unicorn,exclusive,summer,"0",GG3721
+"102351FR-XS",Fairy Unicorn,exclusive,summer,"0",GG3721
+"102351IT-L",Fairy Unicorn,exclusive,summer,"0",GG3721
+"102351IT-M",Fairy Unicorn,exclusive,summer,"0",GG3721
+"102351IT-S",Fairy Unicorn,exclusive,summer,"0",GG3721
+"102351IT-XS",Fairy Unicorn,exclusive,summer,"0",GG3721
+"102352FR-M",Christmas Lights,classic,winter,"2728C",P0227777
+"102352FR-S",Christmas Lights,classic,winter,"2728C",P0227777
+"102353FR-M",You are Wonderful,classic,winter,"1945C",P15H096
+"102353FR-S",You are Wonderful,classic,winter,"1945C",P15H096
+"102354FR-M",Snowy Nights,classic,winter,"0",P28W443
+"102354FR-S",Snowy Nights,classic,winter,"0",P28W443
+"102379DE-L",Coming Home,exclusive,winter,"316C","293635"
+"102379DE-M",Coming Home,exclusive,winter,"316C","293635"
+"102379DE-S",Coming Home,exclusive,winter,"316C","293635"
+"102379FR-L",Coming Home,exclusive,winter,"316C","293635"
+"102379FR-M",Coming Home,exclusive,winter,"316C","293635"
+"102379FR-S",Coming Home,exclusive,winter,"316C","293635"
+"102379IT-L",Coming Home,exclusive,winter,"316C","293635"
+"102379IT-M",Coming Home,exclusive,winter,"316C","293635"
+"102379IT-S",Coming Home,exclusive,winter,"316C","293635"
+"10246DE",Cinnamon (No Glass),exclusive,winter,,
+"10267FR",Cuddle Candle (No Glass),exclusive,all_year,"278C","23418F"
+"10267IT",Cuddle Candle (No Glass),exclusive,all_year,"278C","23418F"
+"10267UK",Cuddle Candle (No Glass),exclusive,all_year,"278C","23418F"
+"103112DE",Sweetheart,sweetheart,all_year,"7425C","248067"
+"103112DE-L",Sweetheart,sweetheart,all_year,"7425C","248067"
+"103112DE-M",Sweetheart,sweetheart,all_year,"7425C","248067"
+"103112DE-S",Sweetheart,sweetheart,all_year,"7425C","248067"
+"103112FR",Sweetheart,sweetheart,all_year,"7425C","248067"
+"103112FR-L",Sweetheart,sweetheart,all_year,"7425C","248067"
+"103112FR-M",Sweetheart,sweetheart,all_year,"7425C","248067"
+"103112FR-S",Sweetheart,sweetheart,all_year,"7425C","248067"
+"103112IT",Sweetheart,sweetheart,all_year,"7425C","248067"
+"103112UK",Sweetheart,sweetheart,all_year,"7425C","248067"
+"10312FR",Sweetheart,sweetheart,all_year,"7425C","248067"
+"10312IT",Sweetheart,sweetheart,all_year,"7425C","248067"
+"10313UK",Sweetheart,sweetheart,all_year,"7425C","248067"
+"10326DE",Sweetheart,sweetheart,all_year,"7425C","248067"
+"10446DE ",Cinnamon (No Glass),exclusive,winter,,
+"11102FR",Creamy Vanilla,swarovski,all_year,"7506C",EAD26540/00
+"11102FR-L",Creamy Vanilla,swarovski,all_year,"7506C",EAD26540/00
+"11102FR-M",Creamy Vanilla,swarovski,all_year,"7506C",EAD26540/00
+"11102FR-S",Creamy Vanilla,swarovski,all_year,"7506C",EAD26540/00
+"111308DE-L",Iconic,premium,winter,"0",GG3021
+"111308DE-M",Iconic,premium,winter,"0",GG3021
+"111308DE-S",Iconic,premium,winter,"0",GG3021
+"111308DE-XS",Iconic,premium,winter,"0",GG3021
+"111308FR-L",Iconic,premium,winter,"0",GG3021
+"111308FR-M",Iconic,premium,winter,"0",GG3021
+"111308FR-S",Iconic,premium,winter,"0",GG3021
+"111308FR-XS",Iconic,premium,winter,"0",GG3021
+"111308IT-L",Iconic,premium,winter,"0",GG3021
+"111308IT-M",Iconic,premium,winter,"0",GG3021
+"111308IT-S",Iconic,premium,winter,"0",GG3021
+"111308IT-XS",Iconic,premium,winter,"0",GG3021
+"1326139DE",Fluffy Cotton,little_cocooning,summer,"0","29383F"
+"1326139FR",Fluffy Cotton,little_cocooning,summer,"0","29383F"
+"1326238DE",Thai Orchid,little_cocooning,summer,"7437C","281280"
+"1326238FR",Thai Orchid,little_cocooning,summer,"7437C","281280"
+"1326309DE",Strawberry,little_cocooning,summer,"1787C","22966F"
+"1326309FR",Strawberry,little_cocooning,summer,"1787C","22966F"
+"1426139DE",Fluffy Cotton,little_cocooning,summer,"0","29383F"
+"1426139FR",Fluffy Cotton,little_cocooning,summer,"0","29383F"
+"1426238DE",Thai Orchid,little_cocooning,summer,"7437C","281280"
+"1426238FR",Thai Orchid,little_cocooning,summer,"7437C","281280"
+"1426309DE",Strawberry,little_cocooning,summer,"1787C","22966F"
+"1426309FR",Strawberry,little_cocooning,summer,"1787C","22966F"
+"1602388DE",Sweetest Reindeer,exclusive,winter,"482C",P0262652
+"1602388FR",Sweetest Reindeer,exclusive,winter,"482C",P0262652
+"1602388IT",Sweetest Reindeer,exclusive,winter,"482C",P0262652
+"20101DE",Cookies & Cream,classic,all_year,"7506C","18123F"
+"20101FR",Cookies & Cream,classic,all_year,"7506C","18123F"
+"20101IT",Cookies & Cream,classic,all_year,"7506C","18123F"
+"20101UK",Cookies & Cream,classic,all_year,"7506C","18123F"
+"20102FR",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"20102IT",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"20102UK",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"20104FR",Friends Forever,classic,all_year,"278C","19947F"
+"20104IT",Friends Forever,classic,all_year,"278C","19947F"
+"20104UK",Friends Forever,classic,all_year,"278C","19947F"
+"20105DE",Happy Birthday,classic,all_year,"241C","18123F"
+"20105FR",Happy Birthday,classic,all_year,"241C","18123F"
+"20105IT",Happy Birthday,classic,all_year,"241C","18123F"
+"20105UK",Happy Birthday,classic,all_year,"241C","18123F"
+"20107FR",Pink Cherry,classic,summer,"219C","26269F"
+"20107IT",Pink Cherry,classic,summer,"219C","26269F"
+"20107UK",Pink Cherry,classic,summer,"219C","26269F"
+"20108DE",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"20108FR",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"20108IT",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"20108UK",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"20109FR",Thank You,classic,all_year,"1935C","19934F"
+"20109IT",Thank You,classic,all_year,"1935C","19934F"
+"20109UK",Thank You,classic,all_year,"1935C","19934F"
+"201106DE",Pomegranate Lemonade,classic,summer,"1935C","14-0005009"
+"201106FR",Pomegranate Lemonade,classic,summer,"1935C","14-0005009"
+"201106IT",Pomegranate Lemonade,classic,summer,"1935C","14-0005009"
+"201106UK",Pomegranate Lemonade,classic,summer,"1935C","14-0005009"
+"201108DE",Fresh Sea Breeze,classic,summer,"325C",EAD4259/00
+"201108FR",Fresh Sea Breeze,classic,summer,"325C",EAD4259/00
+"201108IT",Fresh Sea Breeze,classic,summer,"325C",EAD4259/00
+"201108UK",Fresh Sea Breeze,classic,summer,"325C",EAD4259/00
+"201109DE",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"201109FR",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"201109IT",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"201109UK",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"20110FR",True Love,classic,all_year,"7427C","22951F"
+"20110IT",True Love,classic,all_year,"7427C","22951F"
+"20110UK",True Love,classic,all_year,"7427C","22951F"
+"201110DE",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"201110FR",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"201111DE",Fresh Forest Fruits,classic,summer,"2597C",EAD26531/00
+"201111FR",Fresh Forest Fruits,classic,summer,"2597C",EAD26531/00
+"20111FR",Fruity Watermelon,classic,summer,"702C","13/3714"
+"20111IT",Fruity Watermelon,classic,summer,"702C","13/3714"
+"20111UK",Fruity Watermelon,classic,summer,"702C","13/3714"
+"201123DE",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"201123FR",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"201123IT",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"201124DE",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"201124FR",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"201124IT",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"201124UK",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"201125DE",Sweet Angel,classic,winter,"1225C",A258752
+"201125FR",Sweet Angel,classic,winter,"1225C",A258752
+"201125IT",Sweet Angel,classic,winter,"1225C",A258752
+"201125UK",Sweet Angel,classic,winter,"1225C",A258752
+"201126DE",Speculoos Cookies,classic,winter,"7412C","335094"
+"201126FR",Speculoos Cookies,classic,winter,"7412C","335094"
+"201126IT",Speculoos Cookies,classic,winter,"7412C","335094"
+"201126UK",Speculoos Cookies,classic,winter,"7412C","335094"
+"201127DE",Winter Wonderland,classic,winter,"0","239171"
+"201127FR",Winter Wonderland,classic,winter,"0","239171"
+"201127IT",Winter Wonderland,classic,winter,"0","239171"
+"201127UK",Winter Wonderland,classic,winter,"0","239171"
+"201128DE",Pistacio Macarons,classic,all_year,"7478C",A299191
+"201128FR",Pistacio Macarons,classic,all_year,"7478C",A299191
+"201128IT",Pistacio Macarons,classic,all_year,"7478C",A299191
+"201128UK",Pistacio Macarons,classic,all_year,"7478C",A299191
+"201129DE",Cinnamon Orange,classic,winter,"1495C","1310542"
+"201136DE",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"201136FR",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"201137DE",Good Luck,classic,all_year,"2420C","15-0012354"
+"201137FR",Good Luck,classic,all_year,"2420C","15-0012354"
+"201137IT",Good Luck,classic,all_year,"2420C","15-0012354"
+"201137UK",Good Luck,classic,all_year,"2420C","15-0012354"
+"201138DE",My Favorite Person,classic,all_year,"1787C","22966F"
+"201138FR",My Favorite Person,classic,all_year,"1787C","22966F"
+"201138IT",My Favorite Person,classic,all_year,"1787C","22966F"
+"201138UK",My Favorite Person,classic,all_year,"1787C","22966F"
+"201139DE",Fluffy Cotton,classic,all_year,"0","29383F"
+"201139FR",Fluffy Cotton,classic,all_year,"0","29383F"
+"201139IT",Fluffy Cotton,classic,all_year,"0","29383F"
+"201139UK",Fluffy Cotton,classic,all_year,"0","29383F"
+"201140DE",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"201140FR",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"201140IT",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"201141DE",French Lavender,classic,summer,"7440C","29668F"
+"201142DE",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"201142IT",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"201142UK",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"201143DE",Happy Summer,classic,summer,"396C","12/0004031"
+"201143UK",Happy Summer,classic,summer,"396C","12/0004031"
+"201144DE",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"201144FR",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"201144IT",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"201144UK",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"201145DE",Tropical Peach,classic,summer,"134C",EAD26532/00
+"201145FR",Tropical Peach,classic,summer,"134C",EAD26532/00
+"201145IT",Tropical Peach,classic,summer,"134C",EAD26532/00
+"201145UK",Tropical Peach,classic,summer,"134C",EAD26532/00
+"201146DE",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"201146FR",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"201146IT",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"201155FR",Crunchy Sugar,classic,winter,"7570C","13/0002303"
+"201155IT",Crunchy Sugar,classic,winter,"7570C","13/0002303"
+"201155UK",Crunchy Sugar,classic,winter,"7570C","13/0002303"
+"201156DE",Blackberry Jam,classic,winter,"2587C","19030F"
+"201156FR",Blackberry Jam,classic,winter,"2587C","19030F"
+"201156IT",Blackberry Jam,classic,winter,"2587C","19030F"
+"201156UK",Blackberry Jam,classic,winter,"2587C","19030F"
+"201157DE",Iced Blossom,classic,winter,"687C","17282F"
+"201157FR",Iced Blossom,classic,winter,"687C","17282F"
+"201157IT",Iced Blossom,classic,winter,"687C","17282F"
+"201159DE",Amaretto Waffel,classic,winter,"486C","11/0003157"
+"201159FR",Amaretto Waffel,classic,winter,"486C","11/0003157"
+"201159IT",Amaretto Waffel,classic,winter,"486C","11/0003157"
+"201159UK",Amaretto Waffel,classic,winter,"486C","11/0003157"
+"201160FR",Toffee Delight,classic,winter,"388C","14/0002087"
+"201160IT",Toffee Delight,classic,winter,"388C","14/0002087"
+"201161DE",Rain Drops,classic,all_year,"7710C","29391F"
+"201161FR",Rain Drops,classic,all_year,"7710C","29391F"
+"201161IT",Rain Drops,classic,all_year,"7710C","29391F"
+"201161UK",Rain Drops,classic,all_year,"7710C","29391F"
+"201162DE",Maple Syrup,classic,winter,"7416C","13/0003675"
+"201162FR",Maple Syrup,classic,winter,"7416C","13/0003675"
+"201162IT",Maple Syrup,classic,winter,"7416C","13/0003675"
+"201163DE",Snowflakes,classic,winter,"2455C","13/0005672"
+"201163FR",Snowflakes,classic,winter,"2455C","13/0005672"
+"201163IT",Snowflakes,classic,winter,"2455C","13/0005672"
+"201164DE",Roasted Coffee,classic,winter,"7591C","26161F"
+"201164UK",Roasted Coffee,classic,winter,"7591C","26161F"
+"201165DE",Mousse au Chocolat,classic,winter,"4735C","14/0001766"
+"201165FR",Mousse au Chocolat,classic,winter,"4735C","14/0001766"
+"201165IT",Mousse au Chocolat,classic,winter,"4735C","14/0001766"
+"201165UK",Mousse au Chocolat,classic,winter,"4735C","14/0001766"
+"201167FR",Just Fabulous,classic,summer,"310C","14-0004366"
+"201168DE",Caramel Dream,blogger,winter,"196C","13/0001254"
+"201168FR",Caramel Dream,blogger,winter,"196C","13/0001254"
+"201169FR",Forget Me Not,classic,summer,"2365C","14/0001493"
+"201169IT",Forget Me Not,classic,summer,"2365C","14/0001493"
+"201170FR",Fresh Lemonade,classic,summer,"583C","20275F"
+"201170IT",Fresh Lemonade,classic,summer,"583C","20275F"
+"201171FR","Bella, capricieuse, cute, funny, bad ass",classic,all_year,"805C","13/0002316"
+"201172DE",Juicy Mandarin,classic,summer,"170C","29673F"
+"201172FR",Juicy Mandarin,classic,summer,"170C","29673F"
+"201172IT",Juicy Mandarin,classic,summer,"170C","29673F"
+"201173DE",Matcha Latte,classic,summer,"2255C","13/0004738"
+"201174FR",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"201174IT",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"201175DE",Pear Ice Cream,classic,summer,"580C","16/0018071"
+"201176DE",Pink Grapefruit,classic,summer,"1775C","276090"
+"201177DE",Cassis Sorbet,classic,summer,"2061C","14/0002304"
+"201178DE",Bubble Gum,classic,summer,"806C","16/0019688"
+"201178FR",Bubble Gum,classic,summer,"806C","16/0019688"
+"201178IT",Bubble Gum,classic,summer,"806C","16/0019688"
+"201179DE",Hello Summer,classic,summer,"310C","14-0004366"
+"201193DE",Frozen Berries,classic,winter,"513C","1142803"
+"201193FR",Frozen Berries,classic,winter,"513C","1142803"
+"201193IT",Frozen Berries,classic,winter,"513C","1142803"
+"201193UK",Frozen Berries,classic,winter,"513C","1142803"
+"201195DE",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"201195FR",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"201195IT",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"201195UK",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"201196DE",Winter Sweets,classic,winter,"312C","281278"
+"201196FR",Winter Sweets,classic,winter,"312C","281278"
+"201196IT",Winter Sweets,classic,winter,"312C","281278"
+"201196UK",Winter Sweets,classic,winter,"312C","281278"
+"201197DE",Jingle Bells,classic,winter,"131C","1251400"
+"201197FR",Jingle Bells,classic,winter,"131C","1251400"
+"201197IT",Jingle Bells,classic,winter,"131C","1251400"
+"201198DE",Let it Snow,classic,winter,"2397C",PF97340
+"201198FR",Let it Snow,classic,winter,"2397C",PF97340
+"201198IT",Let it Snow,classic,winter,"2397C",PF97340
+"201198UK",Let it Snow,classic,winter,"2397C",PF97340
+"201199DE",Christmas Bakery,classic,winter,"211C",AR289591
+"201199FR",Christmas Bakery,classic,winter,"211C",AR289591
+"201199IT",Christmas Bakery,classic,winter,"211C",AR289591
+"201199UK",Christmas Bakery,classic,winter,"211C",AR289591
+"201201DE",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"201201FR",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"201201IT",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"201201UK",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"20120DE",Lemon Grass,classic,summer,,
+"20121DE",True Love,classic,all_year,"7427C","22951F"
+"201222DE",Magical Love,blogger,winter,"186C","36620F"
+"201223DE",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"201223FR",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"201223IT",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"201223UK",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"20122DE",Candy Floss,classic,all_year,"1767C","11062F"
+"201234DE",So Berry,classic,summer,"7423C",R.171301.7
+"201234FR",So Berry,classic,summer,"7423C",R.171301.7
+"201234IT",So Berry,classic,summer,"7423C",R.171301.7
+"201234UK",So Berry,classic,summer,"7423C",R.171301.7
+"201235DE","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"201235FR","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"201235IT","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"201235UK","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"201236DE",Childhood Memories,classic,summer,"351C","19595F"
+"201236FR",Childhood Memories,classic,summer,"351C","19595F"
+"201236IT",Childhood Memories,classic,summer,"351C","19595F"
+"201236UK",Childhood Memories,classic,summer,"351C","19595F"
+"201237DE",Sugar Babe,classic,summer,"3572C",A310809
+"201237FR",Sugar Babe,classic,summer,"3572C",A310809
+"201237IT",Sugar Babe,classic,summer,"3572C",A310809
+"201237UK",Sugar Babe,classic,summer,"3572C",A310809
+"201238DE",Thai Orchid,classic,summer,"7437C","281280"
+"201238FR",Thai Orchid,classic,summer,"7437C","281280"
+"201238IT",Thai Orchid,classic,summer,"7437C","281280"
+"201238UK",Thai Orchid,classic,summer,"7437C","281280"
+"201239DE",Pina Colada,classic,summer,"0","29505F"
+"201239FR",Pina Colada,classic,summer,"0","29505F"
+"201239IT",Pina Colada,classic,summer,"0","29505F"
+"201239UK",Pina Colada,classic,summer,"0","29505F"
+"20123DE",Hawaiian Coconut,classic,summer,"0","230945"
+"201247DE",Miniherz,blogger,summer,"0",D2563/M
+"20124DE",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"20125DE",Pink Cherry,classic,summer,"219C","26269F"
+"201266DE",Fresh Lychee,classic,winter,"2029C","08/801627"
+"201266FR",Fresh Lychee,classic,winter,"2029C","08/801627"
+"201266IT",Fresh Lychee,classic,winter,"2029C","08/801627"
+"201267DE",Cozy Fireplace,classic,winter,"0","17/0005045"
+"201267FR",Cozy Fireplace,classic,winter,"0","17/0005045"
+"201267IT",Cozy Fireplace,classic,winter,"0","17/0005045"
+"201268DE",Magical Winter,classic,winter,"7436C","19772F"
+"201268FR",Magical Winter,classic,winter,"7436C","19772F"
+"201268IT",Magical Winter,classic,winter,"7436C","19772F"
+"201269DE",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"201269FR",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"201269IT",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"201271DE",Schoko-Minze,classic,winter,"344C","18/0001607"
+"201272DE",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"201272FR",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"201272IT",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"201273DE",Delicious Christmas,classic,winter,"7635C","17711F"
+"201274FR",Delicious Christmas,classic,winter,"7635C","17711F"
+"201274IT",Delicious Christmas,classic,winter,"7635C","17711F"
+"20127DE",Cuddle Candle,classic,all_year,"278C","23418F"
+"201281FR",Good Vibes Only,blogger,winter,"0","309493"
+"201287DE",Happy Penguin,exclusive,winter,"0","P0240857"
+"201287FR",Happy Penguin,exclusive,winter,"0","P0240857"
+"201287IT",Happy Penguin,exclusive,winter,"0","P0240857"
+"20128DE",Ice Cream Orange,classic,summer,,
+"201302UK",Pretty in Pink,classic,all_year,"1767C","255443"
+"201303UK",Rosy Glow,classic,all_year,"186C","273035"
+"201304UK",Pure and Simple,classic,all_year,"0","29383F"
+"201305UK",You Are My Sunshine,classic,all_year,"134C","17-0005326"
+"201315DE",Sangria Party,classic,summer,"148C",AL223571
+"201315FR",Sangria Party,classic,summer,"148C",AL223571
+"201315IT",Sangria Party,classic,summer,"148C",AL223571
+"201316DE",Fairy Dust,classic,summer,"2101C",AL223556
+"201316FR",Fairy Dust,classic,summer,"2101C",AL223556
+"201316IT",Fairy Dust,classic,summer,"2101C",AL223556
+"201317DE",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"201317FR",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"201317IT",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"201318DE",Life is a Beach,classic,summer,"284C",AL223563
+"201318FR",Life is a Beach,classic,summer,"284C",AL223563
+"201318IT",Life is a Beach,classic,summer,"284C",AL223563
+"20131DE",Vanilla Applepie,classic,,,
+"20132DE",Creme Brulee,classic,summer,"7411C","13/0005751"
+"20132IT",Creme Brulee,classic,summer,"7411C","13/0005751"
+"20132UK",Creme Brulee,classic,summer,"7411C","13/0005751"
+"20133DE",Ice Cream Vanilla,classic,summer,"7506C",EAD26540/00
+"20133FR",Ice Cream Vanilla,classic,summer,"7506C",EAD26540/00
+"20133IT",Ice Cream Vanilla,classic,summer,"7506C",EAD26540/00
+"20133UK",Ice Cream Vanilla,classic,summer,"7506C",EAD26540/00
+"20134DE",Strawberry Cupcake,classic,summer,"199C","20401F"
+"201359DE-B",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"201359FR-B",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"201359IT-B",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"201360DE-B",Sweet Surprise,classic,winter,"0",GG2698
+"201360FR-B",Sweet Surprise,classic,winter,"0",GG2698
+"201360IT-B",Sweet Surprise,classic,winter,"0",GG2698
+"20136DE",Frische Minze,classic,summer,,
+"20137DE",Fruchtige Feigen,classic,summer,,
+"20142DE",Fruity Watermelon,classic,summer,"702C","13/3714"
+"20144DE",Spritzige Brombeere,classic,summer,,
+"20146DE",Cinnamon,classic,winter,,
+"20148DE",Merry Christmas,classic,winter,"341CP","12/0002194"
+"20149DE",Mulled Wine,classic,winter,"201C","12/0002487"
+"20149FR",Mulled Wine,classic,winter,"201C","12/0002487"
+"20149IT",Mulled Wine,classic,winter,"201C","12/0002487"
+"20150DE",Happy New Year,classic,winter,,
+"20151DE",Gingerbread,classic,winter,"181C","24263F"
+"20152DE",Santa Claus,classic,winter,"032C","13/0001254"
+"20153DE",Cinnamon Bun,classic,winter,,"14708F"
+"20154DE",Vanilla Croissant,classic,winter,"7506C","17182F"
+"20155DE",Baked Apple,classic,winter,"185C","12/0002331"
+"20155FR",Baked Apple,classic,winter,"185C","12/0002331"
+"20155UK",Baked Apple,classic,winter,"185C","12/0002331"
+"20156DE",Weihnachts-Kuschel,classic,winter,"278C","23418F"
+"20159FR",Strawberry Cupcake,classic,summer,"199C","20401F"
+"20159IT",Strawberry Cupcake,classic,summer,"199C","20401F"
+"20159UK",Strawberry Cupcake,classic,summer,"199C","20401F"
+"20160UK",Lemon Grass,classic,summer,,
+"20161UK",Hawaiian Coconut,classic,summer,"0","230945"
+"20162UK",Vanilla Applepie,classic,,,
+"20163FR",Candy Floss,classic,all_year,"1767C","11062F"
+"20163IT",Candy Floss,classic,all_year,"1767C","11062F"
+"20163UK",Candy Floss,classic,all_year,"1767C","11062F"
+"20164UK",Cinnamon Bun,classic,winter,,"14708F"
+"20165DE",Merry Christmas,classic,winter,"341CP","12/0002195"
+"20165FR",Merry Christmas,classic,winter,"341CP","12/0002196"
+"20165IT",Merry Christmas,classic,winter,"341CP","12/0002197"
+"20165UK",Merry Christmas,classic,winter,"341CP",A282507
+"20166DE",Santa Claus,classic,winter,"032C","1142808"
+"20166FR",Santa Claus,classic,winter,"032C","1142808"
+"20166IT",Santa Claus,classic,winter,"032C","13/0001254"
+"20166UK",Santa Claus,classic,winter,"032C","13/0001254"
+"20167FR",Cuddle Candle,classic,all_year,"278C","23418F"
+"20167IT",Cuddle Candle,classic,all_year,"278C","23418F"
+"20167UK",Cuddle Candle,classic,all_year,"278C","23418F"
+"20170DE",Candy Cane,classic,winter,"0","13/0001254"
+"20171DE",Coconut Macaroons,classic,winter,"0","230945"
+"20172DE",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"20172FR",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"20172IT",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"20172UK",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"20177FR",Candy Cane,classic,winter,"0","13/0001254"
+"20177IT",Candy Cane,classic,winter,"0","13/0001254"
+"20178FR",Gingerbread,classic,winter,"181C","24263F"
+"20178IT",Gingerbread,classic,winter,"181C","24263F"
+"20178UK",Gingerbread,classic,winter,"181C","24263F"
+"20181IT",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"20201DE",Cookies & Cream (No Glass),exclusive,all_year,"7506C","18123F"
+"20201FR",Cookies & Cream (No Glass),exclusive,all_year,"7506C","18123F"
+"20201IT",Cookies & Cream (No Glass),exclusive,all_year,"7506C","18123F"
+"20201UK",Cookies & Cream (No Glass),exclusive,all_year,"7506C","18123F"
+"20202FR",Creamy Vanilla (No Glass),exclusive,all_year,"7506C",EAD26540/00
+"20202IT",Creamy Vanilla (No Glass),exclusive,all_year,"7506C",EAD26540/00
+"20202UK",Creamy Vanilla (No Glass),exclusive,all_year,"7506C",EAD26540/00
+"20205DE",Happy Birthday (No Glass),exclusive,all_year,"241C","18123F"
+"20205FR",Happy Birthday (No Glass),exclusive,all_year,"241C","18123F"
+"20205IT",Happy Birthday (No Glass),exclusive,all_year,"241C","18123F"
+"20205UK",Happy Birthday (No Glass),exclusive,all_year,"241C","18123F"
+"20207FR",Pink Cherry (No Glass),exclusive,summer,"219C","26269F"
+"20207IT",Pink Cherry (No Glass),exclusive,summer,"219C","26269F"
+"20207UK",Pink Cherry (No Glass),exclusive,summer,"219C","26269F"
+"20210FR",True Love (No Glass),exclusive,all_year,"7427C","22951F"
+"20210IT",True Love (No Glass),exclusive,all_year,"7427C","22951F"
+"20210UK",True Love (No Glass),exclusive,all_year,"7427C","22951F"
+"20221DE",True Love (No Glass),exclusive,all_year,"7427C","22951F"
+"202221DE",Love You More,love,winter,"0","273035"
+"202221FR",Love You More,love,winter,"0","273035"
+"202221IT",Love You More,love,winter,"0","273035"
+"20224DE",Creamy Vanilla (No Glass),exclusive,all_year,"7506C",EAD26540/00
+"20225DE",Pink Cherry (No Glass),exclusive,summer,"219C","26269F"
+"20227DE",Cuddle Candle (No Glass),exclusive,all_year,"278C","23418F"
+"202313DE",Mum while you are special,exclusive,summer,"0","17282F"
+"202313FR",Mum while you are special,exclusive,summer,"0","17282F"
+"202313IT",Mum while you are special,exclusive,summer,"0","17282F"
+"202322FR",Infinity,blogger,summer,"0",GG0627
+"202334IT",Fairy Tale,blogger,summer,"2050C","14-006351"
+"202337DE",Elegance,premium,winter,"0",FF7386
+"202337FR",Elegance,premium,winter,"0",FF7386
+"202337IT",Elegance,premium,winter,"0",FF7386
+"202338DE",Beauty,premium,winter,"0",FF7385
+"202338FR",Beauty,premium,winter,"0",FF7385
+"202338IT",Beauty,premium,winter,"0",FF7385
+"202343DE",Charming,premium,winter,"0","1251405"
+"202343FR",Charming,premium,winter,"0","1251405"
+"202343IT",Charming,premium,winter,"0","1251405"
+"202345DE",Indian Summer,exclusive,summer,"0",GG3019
+"202345FR",Indian Summer,exclusive,summer,"0",GG3019
+"202345IT",Indian Summer,exclusive,summer,"0",GG3019
+"202348DE",Don Skarlito,exclusive,winter,"2627C",EFF294626
+"202348FR",Don Skarlito,exclusive,winter,"2627C",EFF294626
+"202348IT",Don Skarlito,exclusive,winter,"2627C",EFF294626
+"202349FR",Lilac Cotton,blogger,winter,"0",GG0843;
+"202352DE-B",Christmas Lights,classic,winter,"2728C",P0227777
+"202352FR-B",Christmas Lights,classic,winter,"2728C",P0227777
+"202352IT-B",Christmas Lights,classic,winter,"2728C",P0227777
+"202353DE-B",You are Wonderful,classic,winter,"1945C",P15H096
+"202353FR-B",You are Wonderful,classic,winter,"1945C",P15H096
+"202353IT-B",You are Wonderful,classic,winter,"1945C",P15H096
+"202354DE-B",Snowy Nights,classic,winter,"0",P28W443
+"202354FR-B",Snowy Nights,classic,winter,"0",P28W443
+"202354IT-B",Snowy Nights,classic,winter,"0",P28W443
+"202358DE",Empowered,blogger,summer,"0",E-1837112
+"202392DE",Empowered,blogger,summer,"0",E-1837112
+"202393DE",Empowered,blogger,summer,"0",E-1837112
+"202394DE",Empowered,blogger,summer,"0",E-1837112
+"20246DE",Cinnamon (No Glass),exclusive,winter,,
+"20267FR",Cuddle Candle (No Glass),exclusive,all_year,"278C","23418F"
+"20267IT",Cuddle Candle (No Glass),exclusive,all_year,"278C","23418F"
+"20267UK",Cuddle Candle (No Glass),exclusive,all_year,"278C","23418F"
+"203112DE",Sweetheart,sweetheart,all_year,"7425C","248067"
+"203112FR",Sweetheart,sweetheart,all_year,"7425C","248067"
+"203112IT",Sweetheart,sweetheart,all_year,"7425C","248067"
+"203112UK",Sweetheart,sweetheart,all_year,"7425C","248067"
+"20312FR",Sweetheart,sweetheart,all_year,"7425C","248067"
+"20312IT",Sweetheart,sweetheart,all_year,"7425C","248067"
+"20313UK",Sweetheart,sweetheart,all_year,"7425C","248067"
+"20326DE",Sweetheart,sweetheart,all_year,"7425C","248067"
+"20347DE",Vanilla Dreams (No Glass),exclusive,,,
+"21101DE",Cookies & Cream,swarovski,all_year,"7506C","18123F"
+"21102FR",Creamy Vanilla,swarovski,all_year,"7506C",EAD26540/00
+"21102UK",Creamy Vanilla,swarovski,all_year,"7506C",EAD26540/00
+"21105DE",Happy Birthday,swarovski,all_year,"241C","18123F"
+"21105FR",Happy Birthday,swarovski,all_year,"241C","18123F"
+"21105UK",Happy Birthday,swarovski,all_year,"241C","18123F"
+"21110FR",True Love,swarovski,all_year,"7427C","22951F"
+"21110UK",True Love,swarovski,all_year,"7427C","22951F"
+"211127IT",Winter Wonderland,classic,winter,"0","239171"
+"211138DE",My Favorite Person,classic,all_year,"1787C","22966F"
+"211138FR",My Favorite Person,classic,all_year,"1787C","22966F"
+"211138IT",My Favorite Person,classic,all_year,"1787C","22966F"
+"211157DE-B",Iced Blossom,classic,winter,"687C","17282F"
+"21121DE",True Love,swarovski,all_year,"7427C","22951F"
+"211274FR-B",Delicious Christmas,classic,winter,"7635C","17711F"
+"211308DE",Iconic,premium,winter,"0",GG3021
+"211308FR",Iconic,premium,winter,"0",GG3021
+"211308IT",Iconic,premium,winter,"0",GG3021
+"225187DE",Tropical Mango,gold,all_year,"0","248073"
+"225187FR",Tropical Mango,gold,all_year,"0","248073"
+"225188DE",Apple & Peach,gold,all_year,"0","259144"
+"225188FR",Apple & Peach,gold,all_year,"0","259144"
+"225189DE",Red Fruits,gold,all_year,"0","248070"
+"225189FR",Red Fruits,gold,all_year,"0","248070"
+"225248DE",Musk,gold,all_year,"0","11596-401-5"
+"225248FR",Musk,gold,all_year,"0","11596-401-5"
+"225248IT",Musk,gold,all_year,"0","11596-401-5"
+"225249DE",Pink Magnolia,gold,all_year,"0",P0226729
+"225249FR",Pink Magnolia,gold,all_year,"0",P0226729
+"225249IT",Pink Magnolia,gold,all_year,"0",P0226729
+"225250DE",Neroli,gold,all_year,"0","298556"
+"225250FR",Neroli,gold,all_year,"0","298556"
+"225250IT",Neroli,gold,all_year,"0","298556"
+"30101DE",Cookies & Cream,classic,all_year,"7506C","18123F"
+"30101DE-C",Cookies & Cream,classic,all_year,"7506C","18123F"
+"30101FR",Cookies & Cream,classic,all_year,"7506C","18123F"
+"30101FR-C",Cookies & Cream,classic,all_year,"7506C","18123F"
+"30101IT",Cookies & Cream,classic,all_year,"7506C","18123F"
+"30101IT-C",Cookies & Cream,classic,all_year,"7506C","18123F"
+"30101UK-C",Cookies & Cream,classic,all_year,"7506C","18123F"
+"30102FR-C",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"30102UK-C",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"30105DE",Happy Birthday,classic,all_year,"241C","18123F"
+"30105DE-C",Happy Birthday,classic,all_year,"241C","18123F"
+"30105FR",Happy Birthday,classic,all_year,"241C","18123F"
+"30105FR-C",Happy Birthday,classic,all_year,"241C","18123F"
+"30105IT",Happy Birthday,classic,all_year,"241C","18123F"
+"30105IT-C",Happy Birthday,classic,all_year,"241C","18123F"
+"30105UK",Happy Birthday,classic,all_year,"241C","18123F"
+"30105UK-C",Happy Birthday,classic,all_year,"241C","18123F"
+"30106DE",Passion Fruit,classic,summer,"3945C","13/2304"
+"30106DE-C",Passion Fruit,classic,summer,"3945C","13/2304"
+"30106FR",Passion Fruit,classic,summer,"3945C","13/2304"
+"30106FR-C",Passion Fruit,classic,summer,"3945C","13/2304"
+"30106IT",Passion Fruit,classic,summer,"3945C","13/2304"
+"30107FR",Pink Cherry,classic,summer,"219C","26269F"
+"30107FR-C",Pink Cherry,classic,summer,"219C","26269F"
+"30107IT",Pink Cherry,classic,summer,"219C","26269F"
+"30107IT-C",Pink Cherry,classic,summer,"219C","26269F"
+"30107UK",Pink Cherry,classic,summer,"219C","26269F"
+"30108DE-C",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"30108FR",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"30108IT",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"30109DE",Thank You,classic,all_year,"1935C","19934F"
+"30109FR",Thank You,classic,all_year,"1935C","19934F"
+"30109IT",Thank You,classic,all_year,"1935C","19934F"
+"30109IT-C",Thank You,classic,all_year,"1935C","19934F"
+"301108DE",Fresh Sea Breeze,classic,summer,"325C",EAD4259/00
+"301108DE-C",Fresh Sea Breeze,classic,summer,"325C",EAD4259/00
+"301108FR",Fresh Sea Breeze,classic,summer,"325C",EAD4259/00
+"301108IT",Fresh Sea Breeze,classic,summer,"325C",EAD4259/00
+"301108UK",Fresh Sea Breeze,classic,summer,"325C",EAD4259/00
+"301109DE-C",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"301109FR-C",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"30110FR",True Love,classic,all_year,"7427C","22951F"
+"30110FR-C",True Love,classic,all_year,"7427C","22951F"
+"30110IT",True Love,classic,all_year,"7427C","22951F"
+"30110IT-C",True Love,classic,all_year,"7427C","22951F"
+"30110UK",True Love,classic,all_year,"7427C","22951F"
+"30110UK-C",True Love,classic,all_year,"7427C","22951F"
+"301123DE",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"301123DE-C",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"301123FR",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"301123FR-C",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"301123IT",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"301123IT-C",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"301123UK",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"301124DE",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"301124FR",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"301124FR-C",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"301124UK",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"301125DE",Sweet Angel,classic,winter,"1225C",A258752
+"301125DE-C",Sweet Angel,classic,winter,"1225C",A258752
+"301125FR-C",Sweet Angel,classic,winter,"1225C",A258752
+"301126DE",Speculoos Cookies,classic,winter,"7412C","335094"
+"301126DE-C",Speculoos Cookies,classic,winter,"7412C","335094"
+"301126FR",Speculoos Cookies,classic,winter,"7412C","335094"
+"301126FR-C",Speculoos Cookies,classic,winter,"7412C","335094"
+"301127DE",Winter Wonderland,classic,winter,"0","239171"
+"301127DE-C",Winter Wonderland,classic,winter,"0","239171"
+"301127FR",Winter Wonderland,classic,winter,"0","239171"
+"301127FR-C",Winter Wonderland,classic,winter,"0","239171"
+"301127IT-C",Winter Wonderland,classic,winter,"0","239171"
+"301127UK",Winter Wonderland,classic,winter,"0","239171"
+"301128DE",Pistacio Macarons,classic,all_year,"7478C",A299191
+"301128FR",Pistacio Macarons,classic,all_year,"7478C",A299191
+"301128FR-C",Pistacio Macarons,classic,all_year,"7478C",A299191
+"301136DE",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"301136DE-C",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"301136FR",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"301136FR-C",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"301136IT",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"301136IT-C",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"301137DE",Good Luck,classic,all_year,"2420C","15-0012354"
+"301137DE-C",Good Luck,classic,all_year,"2420C","15-0012354"
+"301137FR",Good Luck,classic,all_year,"2420C","15-0012354"
+"301137UK",Good Luck,classic,all_year,"2420C","15-0012354"
+"301138DE",My Favorite Person,classic,all_year,"1787C","22966F"
+"301138DE-C",My Favorite Person,classic,all_year,"1787C","22966F"
+"301138FR-C",My Favorite Person,classic,all_year,"1787C","22966F"
+"301138UK",My Favorite Person,classic,all_year,"1787C","22966F"
+"301138UK-C",My Favorite Person,classic,all_year,"1787C","22966F"
+"301139DE-C",Fluffy Cotton,classic,all_year,"0","29383F"
+"301139FR",Fluffy Cotton,classic,all_year,"0","29383F"
+"301139FR-C",Fluffy Cotton,classic,all_year,"0","29383F"
+"301139IT",Fluffy Cotton,classic,all_year,"0","29383F"
+"301139IT-C",Fluffy Cotton,classic,all_year,"0","29383F"
+"301139UK",Fluffy Cotton,classic,all_year,"0","29383F"
+"301140FR",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"301140FR-C",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"301140IT",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"301140IT-C",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"301141DE",French Lavender,classic,summer,"7440C","29668F"
+"301142DE-C",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"301142FR",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"301142FR-C",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"301142IT-C",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"301143DE",Happy Summer,classic,summer,"396C","12/0004031"
+"301143FR",Happy Summer,classic,summer,"396C","12/0004031"
+"301143IT",Happy Summer,classic,summer,"396C","12/0004031"
+"301143UK",Happy Summer,classic,summer,"396C","12/0004031"
+"301144DE",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"301144DE-C",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"301144FR-C",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"301144IT",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"301144IT-C",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"301145DE-C",Tropical Peach,classic,summer,"134C",EAD26532/00
+"301145FR",Tropical Peach,classic,summer,"134C",EAD26532/00
+"301145FR-C",Tropical Peach,classic,summer,"134C",EAD26532/00
+"301145UK",Tropical Peach,classic,summer,"134C",EAD26532/00
+"301146DE-C",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"301146FR",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"301146FR-C",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"301146IT",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"301146IT-C",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"301156DE",Blackberry Jam,classic,winter,"2587C","19030F"
+"301156UK",Blackberry Jam,classic,winter,"2587C","19030F"
+"301157DE-C",Iced Blossom,classic,winter,"687C","17282F"
+"301157FR",Iced Blossom,classic,winter,"687C","17282F"
+"301157FR-C",Iced Blossom,classic,winter,"687C","17282F"
+"301157IT",Iced Blossom,classic,winter,"687C","17282F"
+"301157IT-C",Iced Blossom,classic,winter,"687C","17282F"
+"301158DE",Crispy Popcorn,classic,winter,"136C","09/903773"
+"301158FR",Crispy Popcorn,classic,winter,"136C","09/903773"
+"301158IT",Crispy Popcorn,classic,winter,"136C","09/903773"
+"301158UK",Crispy Popcorn,classic,winter,"136C","09/903773"
+"301160DE",Toffee Delight,classic,winter,"388C","14/0002087"
+"301160FR",Toffee Delight,classic,winter,"388C","14/0002087"
+"301160IT",Toffee Delight,classic,winter,"388C","14/0002087"
+"301161DE-C",Rain Drops,classic,all_year,"7710C","29391F"
+"301162DE",Maple Syrup,classic,winter,"7416C","13/0003675"
+"301162FR",Maple Syrup,classic,winter,"7416C","13/0003675"
+"301162UK",Maple Syrup,classic,winter,"7416C","13/0003675"
+"301163DE-C",Snowflakes,classic,winter,"2455C","13/0005672"
+"301163FR-C",Snowflakes,classic,winter,"2455C","29300F"
+"301163IT-C",Snowflakes,classic,winter,"2455C","29300F"
+"301164IT",Roasted Coffee,classic,winter,"7591C","26161F"
+"301165FR",Mousse au Chocolat,classic,winter,"4735C","14/0001766"
+"301167FR-C",Just Fabulous,classic,summer,"310C","14-0004366"
+"301168FR-C",Caramel Dream,blogger,winter,"196C","13/0001254"
+"301169DE",Forget Me Not,classic,summer,"2365C","14/0001493"
+"301169DE-C",Forget Me Not,classic,summer,"2365C","14/0001493"
+"301169IT-C",Forget Me Not,classic,summer,"2365C","14/0001493"
+"301170DE-C",Fresh Lemonade,classic,summer,"583C","20275F"
+"301170IT-C",Fresh Lemonade,classic,summer,"583C","20275F"
+"301171FR-C","Bella, capricieuse, cute, funny, bad ass",classic,all_year,"805C","13/0002316"
+"301172DE-C",Juicy Mandarin,classic,summer,"170C","29673F"
+"301172FR-C",Juicy Mandarin,classic,summer,"170C","29673F"
+"301173FR-C",Matcha Latte,classic,summer,"2255C","13/0004738"
+"301174DE-C",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"301174FR-C",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"301174IT-C",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"301175DE-C",Pear Ice Cream,classic,summer,"580C","16/0018071"
+"301176DE-C",Pink Grapefruit,classic,summer,"1775C","276090"
+"301176FR-C",Pink Grapefruit,classic,summer,"1775C","276090"
+"301177DE-C",Cassis Sorbet,classic,summer,"2061C","14/0002304"
+"301178DE-C",Bubble Gum,classic,summer,"806C","16/0019688"
+"301178FR-C",Bubble Gum,classic,summer,"806C","16/0019688"
+"301183DE-C",Only For You,blogger,summer,"177C",EAD26538/00
+"301191DE-C",Coquette,exclusive,summer,"2254C","13/0000154"
+"301191FR-C",Coquette,exclusive,summer,"2254C","13/0000154"
+"301193DE-C",Frozen Berries,classic,winter,"513C","1142803"
+"301193FR-C",Frozen Berries,classic,winter,"513C","1142803"
+"301193IT-C",Frozen Berries,classic,winter,"513C","1142803"
+"301193UK-C",Frozen Berries,classic,winter,"513C","1142803"
+"301195DE-C",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"301195FR-C",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"301195IT-C",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"301195UK-C",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"301196DE-C",Winter Sweets,classic,winter,"312C","281278"
+"301196FR-C",Winter Sweets,classic,winter,"312C","281278"
+"301196IT-C",Winter Sweets,classic,winter,"312C","281278"
+"301196UK-C",Winter Sweets,classic,winter,"312C","281278"
+"301197DE-C",Jingle Bells,classic,winter,"131C","1251400"
+"301197FR-C",Jingle Bells,classic,winter,"131C","1251400"
+"301197IT-C",Jingle Bells,classic,winter,"131C","1251400"
+"301198DE-C",Let it Snow,classic,winter,"2397C",PF97340
+"301198FR-C",Let it Snow,classic,winter,"2397C",PF97340
+"301198IT-C",Let it Snow,classic,winter,"2397C",PF97340
+"301198UK-C",Let it Snow,classic,winter,"2397C",PF97340
+"301199DE-C",Christmas Bakery,classic,winter,"211C",AR289591
+"301199FR-C",Christmas Bakery,classic,winter,"211C",AR289591
+"301199IT-C",Christmas Bakery,classic,winter,"211C",AR289591
+"301199UK",Christmas Bakery,classic,winter,"211C",AR289591
+"301199UK-C",Christmas Bakery,classic,winter,"211C",AR289591
+"301201DE-C",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"301201FR-C",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"301201IT-C",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"301201UK-C",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"301202DE-C",Holly Chic,exclusive,winter,"0631C","21657F"
+"301202FR-C",Holly Chic,exclusive,winter,"0631C","21657F"
+"301207DE-C",Marzipan Joy,blogger,winter,"7499C","12/0002921"
+"301208DE-C",Cinnamon Star,blogger,winter,"2582C",A321174
+"301209DE-C",Mandarine Candy,blogger,winter,"179C",A255364
+"30120DE",Lemon Grass,classic,summer,,
+"301216DE-C",Mamaherz,blogger,winter,"0","14/0006691"
+"30121DE",True Love,classic,all_year,"7427C","22951F"
+"30121DE-C",True Love,classic,all_year,"7427C","22951F"
+"301222DE-C",Magical Love,blogger,winter,"186C","36620F"
+"301223DE-C",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"301223FR-C",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"301223IT-C",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"301223UK-C",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"30122DE",Candy Floss,classic,all_year,"1767C","11062F"
+"30122DE-C",Candy Floss,classic,all_year,"1767C","11062F"
+"301234DE-C",So Berry,classic,summer,"7423C",R.171301.7
+"301234FR-C",So Berry,classic,summer,"7423C",R.171301.7
+"301234IT-C",So Berry,classic,summer,"7423C",R.171301.7
+"301234UK-C",So Berry,classic,summer,"7423C",R.171301.7
+"301235DE-C","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"301235FR-C","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"301235IT-C","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"301235UK-C","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"301236DE-C",Childhood Memories,classic,summer,"351C","19595F"
+"301236FR-C",Childhood Memories,classic,summer,"351C","19595F"
+"301236IT-C",Childhood Memories,classic,summer,"351C","19595F"
+"301236UK-C",Childhood Memories,classic,summer,"351C","19595F"
+"301237DE-C",Sugar Babe,classic,summer,"3572C",A310809
+"301237FR-C",Sugar Babe,classic,summer,"3572C",A310809
+"301237IT-C",Sugar Babe,classic,summer,"3572C",A310809
+"301237UK-C",Sugar Babe,classic,summer,"3572C",A310809
+"301238DE-C",Thai Orchid,classic,summer,"7437C","281280"
+"301238FR-C",Thai Orchid,classic,summer,"7437C","281280"
+"301238IT-C",Thai Orchid,classic,summer,"7437C","281280"
+"301238UK-C",Thai Orchid,classic,summer,"7437C","281280"
+"301239DE-C",Pina Colada,classic,summer,"0","29505F"
+"301239FR-C",Pina Colada,classic,summer,"0","29505F"
+"301239IT-C",Pina Colada,classic,summer,"0","29505F"
+"301239UK-C",Pina Colada,classic,summer,"0","29505F"
+"30123DE",Hawaiian Coconut,classic,summer,"0","230945"
+"301247DE-C",Mamaherz,blogger,summer,"0",D2563/M
+"30124DE",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"30124DE-C",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"301251FR-C",Emotional,blogger,summer,"0","12/0000784"
+"301252FR-C",Sensual,blogger,summer,"7428C","2017100561"
+"30125DE",Pink Cherry,classic,summer,"219C","26269F"
+"30125DE-C",Pink Cherry,classic,summer,"219C","26269F"
+"301266DE-C",Fresh Lychee,classic,winter,"2029C","08/801627"
+"301266FR-C",Fresh Lychee,classic,winter,"2029C","08/801627"
+"301266IT-C",Fresh Lychee,classic,winter,"2029C","08/801627"
+"301267DE-C",Cozy Fireplace,classic,winter,"0","17/0005045"
+"301267FR-C",Cozy Fireplace,classic,winter,"0","17/0005045"
+"301267IT-C",Cozy Fireplace,classic,winter,"0","17/0005045"
+"301268DE-C",Magical Winter,classic,winter,"7436C","19772F"
+"301268FR-C",Magical Winter,classic,winter,"7436C","19772F"
+"301268IT-C",Magical Winter,classic,winter,"7436C","19772F"
+"301269DE-C",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"301269FR-C",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"301269IT-C",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"301271DE-C",Schoko-Minze,classic,winter,"344C","18/0001607"
+"301272DE-C",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"301272FR-C",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"301272IT-C",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"301273DE-C",Delicious Christmas,classic,winter,"7635C","17711F"
+"301274FR-C",Delicious Christmas,classic,winter,"7635C","17711F"
+"301274IT-C",Delicious Christmas,classic,winter,"7635C","17711F"
+"301277DE-C",Pummeleinhorn,collaborative,winter,"521C","11/0004609"
+"301279DE-C",Winter Castle,blogger,winter,"7436C","18798F"
+"30127DE",Cuddle Candle,classic,all_year,"278C","23418F"
+"30127DE-C",Cuddle Candle,classic,all_year,"278C","23418F"
+"301280DE-C",Winter Fantasy,blogger,winter,"0",AR309941
+"301283IT-C",Duality,blogger,winter,"0","13/0002460"
+"301285DE-C",Oh My Deer,exclusive,winter,"5513C",PF97733
+"301285FR-C",Oh My Deer,exclusive,winter,"5513C",PF97733
+"301285IT-C",Oh My Deer,exclusive,winter,"5513C",PF97733
+"301315DE-C",Sangria Party,classic,summer,"148C",AL223571
+"301315FR-C",Sangria Party,classic,summer,"148C",AL223571
+"301315IT-C",Sangria Party,classic,summer,"148C",AL223571
+"301316DE-C",Fairy Dust,classic,summer,"2101C",AL223556
+"301316FR-C",Fairy Dust,classic,summer,"2101C",AL223556
+"301316IT-C",Fairy Dust,classic,summer,"2101C",AL223556
+"301317DE-C",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"301317FR-C",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"301317IT-C",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"301318DE-C",Life is a Beach,classic,summer,"284C",AL223563
+"301318FR-C",Life is a Beach,classic,summer,"284C",AL223563
+"301318IT-C",Life is a Beach,classic,summer,"284C",AL223563
+"30132FR-C",Creme Brulee,classic,summer,"7411C","13/0005751"
+"30134DE-C",Strawberry Cupcake,classic,summer,"199C","20401F"
+"301359DE-C",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"301359FR-C",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"301359IT-C",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"301360DE-C",Sweet Surprise,classic,winter,"0",GG2698
+"301360FR-C",Sweet Surprise,classic,winter,"0",GG2698
+"301360IT-C",Sweet Surprise,classic,winter,"0",GG2698
+"30142DE-C",Fruity Watermelon,classic,summer,"702C","13/3714"
+"30148DE",Merry Christmas,classic,winter,"341CP",A282507
+"30149DE-C",Mulled Wine,classic,winter,"201C","12/0002487"
+"30149FR",Mulled Wine,classic,winter,"201C","12/0002487"
+"30149FR-C",Mulled Wine,classic,winter,"201C","12/0002487"
+"30149IT",Mulled Wine,classic,winter,"201C","12/0002487"
+"30149IT-C",Mulled Wine,classic,winter,"201C","12/0002487"
+"30152DE",Santa Claus,classic,winter,"032C","13/0001254"
+"30154DE",Vanilla Croissant,classic,winter,"7506C","17182F"
+"30154DE-C",Vanilla Croissant,classic,winter,"7506C","17182F"
+"30155DE ",Baked Apple,classic,winter,"185C","12/0002331"
+"30155DE-C",Baked Apple,classic,winter,"185C","12/0002331"
+"30155FR",Baked Apple,classic,winter,"185C","12/0002331"
+"30155FR-C",Baked Apple,classic,winter,"185C","12/0002331"
+"30155IT",Baked Apple,classic,winter,"185C","12/0002331"
+"30156DE",Weihnachts-Kuschel,classic,winter,"278C","23418F"
+"30159IT-C",Strawberry Cupcake,classic,summer,"199C","20401F"
+"30161FR",Hawaiian Coconut,classic,summer,"0","230945"
+"30163FR-C",Candy Floss,classic,all_year,"1767C","11062F"
+"30163UK",Candy Floss,classic,all_year,"1767C","11062F"
+"30165DE-C",Merry Christmas,classic,winter,"341CP","12/0002197"
+"30165FR",Merry Christmas,classic,winter,"341CP",A282507
+"30165FR-C",Merry Christmas,classic,winter,"341CP","12/0002197"
+"30165IT",Merry Christmas,classic,winter,"341CP",A282507
+"30165IT-C",Merry Christmas,classic,winter,"341CP","12/0002197"
+"30166DE-C",Santa Claus,classic,winter,"032C","1142808"
+"30166FR",Santa Claus,classic,winter,"032C","13/0001254"
+"30166FR-C",Santa Claus,classic,winter,"032C","1142808"
+"30166IT",Santa Claus,classic,winter,"032C","13/0001254"
+"30166IT-C",Santa Claus,classic,winter,"032C","1142808"
+"30167FR-C",Cuddle Candle,classic,all_year,"278C","23418F"
+"30167UK-C",Cuddle Candle,classic,all_year,"278C","23418F"
+"30170DE",Candy Cane,classic,winter,"0","13/0001254"
+"30172DE-C",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"30172FR",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"30172FR-C",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"30172IT-C",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"30172UK-C",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"30174DE",Chocolate Dreamer,classic,all_year,"7562CP",A311019
+"30174FR",Chocolate Dreamer,classic,all_year,"7562CP",A311019
+"30174IT",Chocolate Dreamer,classic,all_year,"7562CP",A311019
+"30175DE",Zimtstern,classic,winter,"7573CP","14708F"
+"30176DE",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"30177FR",Candy Cane,classic,winter,"0","13/0001254"
+"30177FR-C",Candy Cane,classic,winter,"0","13/0001254"
+"30177IT",Candy Cane,classic,winter,"0","13/0001254"
+"30178FR-C",Gingerbread,classic,winter,"181C","24263F"
+"30178UK",Gingerbread,classic,winter,"181C","24263F"
+"302220DE-C",XOXO,love,winter,"0",AR452415
+"302220FR-C",XOXO,love,winter,"0",AR452415
+"302220IT-C",XOXO,love,winter,"0",AR452415
+"3022339DE-C",Hawaiian Unicorn,exclusive,summer,"7506C, 5513C",EFF2897E97
+"3022339FR-C",Hawaiian Unicorn,exclusive,summer,"7506C, 5513C",EFF2897E97
+"3022339IT-C",Hawaiian Unicorn,exclusive,summer,"7506C, 5513C",EFF2897E97
+"302306DE-C",JuwelZauber,exclusive,winter,"5265C","39944F"
+"302310DE-C",Moonlight Melody,exclusive,winter,"541C","12380-401-5"
+"302310FR-C",Moonlight Melody,exclusive,winter,"541C","12380-401-5"
+"302310IT-C",Moonlight Melody,exclusive,winter,"541C","12380-401-5"
+"302312IT-C",Sweet Chocolate,exclusive,winter,"168C",EFF290727
+"302313DE-C",Mum while you are special,exclusive,summer,"0","17282F"
+"302313FR-C",Mum while you are special,exclusive,summer,"0","17282F"
+"302313IT-C",Mum while you are special,exclusive,summer,"0","17282F"
+"302323DE-C",Bunny Egg,exclusive,winter,"0",FF7385
+"302323FR-C",Bunny Egg,exclusive,winter,"0",FF7385
+"302323IT-C",Bunny Egg,exclusive,winter,"0",FF7385
+"302325DE-C",Passion,blogger,summer,"0","298560"
+"302326DE-C",Lovely,blogger,summer,"0",P0226106
+"302327DE-C",Together,blogger,summer,"0","281280"
+"302328DE-C","Don't Dream It, Do It!",blogger,summer,"0",PRX019332
+"302335FR-C",Blossom,blogger,summer,"7506C",GG15552
+"302337DE-C",Elegance,premium,winter,"0",FF7386
+"302337FR-C",Elegance,premium,winter,"0",FF7386
+"302337IT-C",Elegance,premium,winter,"0",FF7386
+"302338DE-C",Beauty,premium,winter,"0",FF7385
+"302338FR-C",Beauty,premium,winter,"0",FF7385
+"302338IT-C",Beauty,premium,winter,"0",FF7385
+"302341DE-C",Together,blogger,summer,"0","281280"
+"302342DE-C",Together,blogger,summer,"0","281280"
+"302343DE-C",Charming,premium,winter,"0","1251405"
+"302343FR-C",Charming,premium,winter,"0","1251405"
+"302343IT-C",Charming,premium,winter,"0","1251405"
+"302346DE-C",Wanderlust,exclusive,summer,"0",P0270387
+"302346FR-C",Wanderlust,exclusive,summer,"0",P0270387
+"302346IT-C",Wanderlust,exclusive,summer,"0",P0270387
+"302352DE-C",Christmas Lights,classic,winter,"2728C",P0227777
+"302352FR-C",Christmas Lights,classic,winter,"2728C",P0227777
+"302352IT-C",Christmas Lights,classic,winter,"2728C",P0227777
+"302353DE-C",You are Wonderful,classic,winter,"1945C",P15H096
+"302353FR-C",You are Wonderful,classic,winter,"1945C",P15H096
+"302353IT-C",You are Wonderful,classic,winter,"1945C",P15H096
+"302354DE-C",Snowy Nights,classic,winter,"0",P28W443
+"302354FR-C",Snowy Nights,classic,winter,"0",P28W443
+"302354IT-C",Snowy Nights,classic,winter,"0",P28W443
+"302355DE-C",Merci Chérie,blogger,winter,"503C",P0270365
+"302356DE-C",Merci Chérie,blogger,winter,"503C",P0270365
+"302378DE-C",Falling in Love,exclusive,winter,"0",P0241058
+"302378FR-C",Falling in Love,exclusive,winter,"0",P0241058
+"302378IT-C",Falling in Love,exclusive,winter,"0",P0241058
+"302395DE-C",Little Owly,fantasy,winter,"0",PO226800
+"302395FR-C",Little Owly,fantasy,winter,"0",PO226800
+"302395IT-C",Little Owly,fantasy,winter,"0",PO226800
+"302400FR-C",Don't Know Don't Care,blogger,winter,"0",GG1830
+"302401DE-C",Moments,blogger,winter,"0",PRX022352
+"302402DE-C",Moments,blogger,winter,"0",PRX022352
+"302412DE-C","Oh, hey Vanilla",blogger,winter,"0","1416578"
+"302413DE-C","Oh, hey Vanilla",blogger,winter,"0","1416578"
+"302421DE-C","Fluffy, Warm & Cozy",blogger,winter,"0","09/902645"
+"302422DE-C","Fluffy, Warm & Cozy",blogger,winter,"0","09/902645"
+"302423DE-C",Delish,blogger,winter,"0","309486"
+"302424DE-C",Delish,blogger,winter,"0","309486"
+"302425DE-C",Glitter Winter,collaborative,winter,"0, 2171C",GG4951
+"30247DE",Vanilla Dreams (No Glass),exclusive,,,
+"30265DE",Merry Christmas,gifting,winter,"206C",PRX2918
+"30265FR",Merry Christmas,gifting,winter,"206C",PRX2918
+"30265IT",Merry Christmas,gifting,winter,"206C",PRX2918
+"303112DE-C",Sweetheart,sweetheart,all_year,"7425C","248067"
+"303112FR-C",Sweetheart,sweetheart,all_year,"7425C","248067"
+"303112IT",Sweetheart,sweetheart,all_year,"7425C","248067"
+"31101FR",Cookies & Cream,swarovski,all_year,"7506C","18123F"
+"31101FR-C",Cookies & Cream,classic,all_year,"7506C","18123F"
+"31101IT-C",Cookies & Cream,classic,all_year,"7506C","18123F"
+"31101UK",Cookies & Cream,swarovski,all_year,"7506C","18123F"
+"31105DE",Happy Birthday,swarovski,all_year,"241C","18123F"
+"31105FR",Happy Birthday,swarovski,all_year,"241C","18123F"
+"31105UK",Happy Birthday,swarovski,all_year,"241C","18123F"
+"31110FR",True Love,swarovski,all_year,"7427C","22951F"
+"31110UK",True Love,swarovski,all_year,"7427C","22951F"
+"31121DE",True Love,swarovski,all_year,"7427C","22951F"
+"31122DE",Candy Floss,swarovski,all_year,"1767C","11062F"
+"311308DE-C",Iconic,premium,winter,"0",GG3021
+"311308FR-C",Iconic,premium,winter,"0",GG3021
+"311308IT-C",Iconic,premium,winter,"0",GG3021
+"311360DE-C",Sweet Surprise,classic,winter,"0",GG2698
+"311360FR-C",Sweet Surprise,classic,winter,"0",GG2698
+"311360IT-C",Sweet Surprise,classic,winter,"0",GG2698
+"325187DE-C",Tropical Mango,gold,all_year,"0","248073"
+"325187FR-C",Tropical Mango,gold,all_year,"0","248073"
+"325188DE-C",Apple & Peach,gold,all_year,"0","259144"
+"325188FR-C",Apple & Peach,gold,all_year,"0","259144"
+"325189DE-C",Red Fruits,gold,all_year,"0","248070"
+"325189FR-C",Red Fruits,gold,all_year,"0","248070"
+"325248DE-C",Musk,gold,all_year,"0","11596-401-5"
+"325248FR-C",Musk,gold,all_year,"0","11596-401-5"
+"325248IT-C",Musk,gold,all_year,"0","11596-401-5"
+"325249DE-C",Pink Magnolia,gold,all_year,"0",P0226729
+"325249FR-C",Pink Magnolia,gold,all_year,"0",P0226729
+"325249IT-C",Pink Magnolia,gold,all_year,"0",P0226729
+"325250DE-C",Neroli,gold,all_year,"0","298556"
+"325250FR-C",Neroli,gold,all_year,"0","298556"
+"325250IT-C",Neroli,gold,all_year,"0","298556"
+"40101DE",Cookies & Cream,classic,all_year,"7506C","18123F"
+"40101FR",Cookies & Cream,classic,all_year,"7506C","18123F"
+"40101IT",Cookies & Cream,classic,all_year,"7506C","18123F"
+"40101UK",Cookies & Cream,classic,all_year,"7506C","18123F"
+"40102FR",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"40102UK",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"40105DE",Happy Birthday,classic,all_year,"241C","18123F"
+"40105FR",Happy Birthday,classic,all_year,"241C","18123F"
+"40105IT",Happy Birthday,classic,all_year,"241C","18123F"
+"40105UK",Happy Birthday,classic,all_year,"241C","18123F"
+"40106FR",Passion Fruit,classic,summer,"3945C","13/2304"
+"40107FR",Pink Cherry,classic,summer,"219C","26269F"
+"40108DE",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"40108FR",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"40109FR",Thank You,classic,all_year,"1935C","19934F"
+"401109DE",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"40110FR",True Love,classic,all_year,"7427C","22951F"
+"40110IT",True Love,classic,all_year,"7427C","22951F"
+"40110UK",True Love,classic,all_year,"7427C","22951F"
+"401110DE",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"401110FR",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"401111DE",Fresh Forest Fruits,classic,summer,"2597C",EAD26531/00
+"40111FR",Fruity Watermelon,classic,summer,"702C","13/3714"
+"401123DE",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"401123FR",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"401124DE",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"401124FR",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"401124IT",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"401124UK",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"401125DE",Sweet Angel,classic,winter,"1225C",A258752
+"401125FR",Sweet Angel,classic,winter,"1225C",A258752
+"401126DE",Speculoos Cookies,classic,winter,"7412C","335094"
+"401126FR",Speculoos Cookies,classic,winter,"7412C","335094"
+"401127DE",Winter Wonderland,classic,winter,"0","239171"
+"401127FR",Winter Wonderland,classic,winter,"0","239171"
+"401127IT",Winter Wonderland,classic,winter,"0","239171"
+"401127UK",Winter Wonderland,classic,winter,"0","239171"
+"401128FR",Pistacio Macarons,classic,all_year,"7478C",A299191
+"401128IT",Pistacio Macarons,classic,all_year,"7478C",A299191
+"401136DE",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"401136FR",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"401137DE",Good Luck,classic,all_year,"2420C","15-0012354"
+"401137UK",Good Luck,classic,all_year,"2420C","15-0012354"
+"401138DE",My Favorite Person,classic,all_year,"1787C","22966F"
+"401138FR",My Favorite Person,classic,all_year,"1787C","22966F"
+"401138IT",My Favorite Person,classic,all_year,"1787C","22966F"
+"401138UK",My Favorite Person,classic,all_year,"1787C","22966F"
+"401139DE",Fluffy Cotton,classic,all_year,"0","29383F"
+"401139FR",Fluffy Cotton,classic,all_year,"0","29383F"
+"401139IT",Fluffy Cotton,classic,all_year,"0","29383F"
+"401139UK",Fluffy Cotton,classic,all_year,"0","29383F"
+"401140DE",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"401140FR",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"401142DE",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"401144FR",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"401144IT",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"401144UK",Lilac & Jasmine,classic,summer,"7437C","17393F"
+"401145DE",Tropical Peach,classic,summer,"134C",EAD26532/00
+"401145FR",Tropical Peach,classic,summer,"134C",EAD26532/00
+"401145IT",Tropical Peach,classic,summer,"134C",EAD26532/00
+"401146DE",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"401146FR",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"401146IT",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"401146UK",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"401154FR",Pour toujours & męme aprčs,blogger,winter,"7506C","239171"
+"401155FR",Crunchy Sugar,classic,winter,"7570C","13/0002303"
+"401155IT",Crunchy Sugar,classic,winter,"7570C","13/0002303"
+"401157DE",Iced Blossom,classic,winter,"687C","17282F"
+"401157FR",Iced Blossom,classic,winter,"687C","17282F"
+"401157IT",Iced Blossom,classic,winter,"687C","17282F"
+"401157UK",Iced Blossom,classic,winter,"687C","17282F"
+"401158FR",Crispy Popcorn,classic,winter,"136C","09/903773"
+"401159FR",Amaretto Waffel,classic,winter,"486C","11/0003157"
+"401160FR",Toffee Delight,classic,winter,"388C","14/0002087"
+"401160IT",Toffee Delight,classic,winter,"388C","14/0002087"
+"401160UK",Toffee Delight,classic,winter,"388C","14/0002087"
+"401161DE",Rain Drops,classic,all_year,"7710C","29391F"
+"401161FR",Rain Drops,classic,all_year,"7710C","29391F"
+"401163DE",Snowflakes,classic,winter,"2455C","13/0005672"
+"401163FR",Snowflakes,classic,winter,"2455C","29300F"
+"401163IT",Snowflakes,classic,winter,"2455C","29300F"
+"401163UK",Snowflakes,classic,winter,"2455C","29300F"
+"401164DE",Roasted Coffee,classic,winter,"7591C","26161F"
+"401164FR",Roasted Coffee,classic,winter,"7591C","26161F"
+"401165DE",Mousse au Chocolat,classic,winter,"4735C","14/0001766"
+"401165UK",Mousse au Chocolat,classic,winter,"4735C","14/0001766"
+"401167IT",Just Fabulous,classic,summer,"310C","14-0004366"
+"401168FR",Caramel Dream,blogger,winter,"196C","13/0001254"
+"401169DE",Forget Me Not,classic,summer,"2365C","14/0001493"
+"401169FR",Forget Me Not,classic,summer,"2365C","14/0001493"
+"401170DE",Fresh Lemonade,classic,summer,"583C","20275F"
+"401170FR",Fresh Lemonade,classic,summer,"583C","20275F"
+"401171FR","Bella, capricieuse, cute, funny, bad ass",classic,all_year,"805C","13/0002316"
+"401171IT","Bella, capricieuse, cute, funny, bad ass",classic,all_year,"805C","13/0002316"
+"401173DE",Matcha Latte,classic,summer,"2255C","13/0004738"
+"401173FR",Matcha Latte,classic,summer,"2255C","13/0004738"
+"401173IT",Matcha Latte,classic,summer,"2255C","13/0004738"
+"401174DE",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"401174FR",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"401174IT",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"401175FR",Pear Ice Cream,classic,summer,"580C","16/0018071"
+"401175IT",Pear Ice Cream,classic,summer,"580C","16/0018071"
+"401176FR",Pink Grapefruit,classic,summer,"1775C","276090"
+"401176IT",Pink Grapefruit,classic,summer,"1775C","276090"
+"401177DE",Cassis Sorbet,classic,summer,"2061C","14/0002304"
+"401177FR",Cassis Sorbet,classic,summer,"2061C","14/0002304"
+"401178DE",Bubble Gum,classic,summer,"806C","16/0019688"
+"401178FR",Bubble Gum,classic,summer,"806C","16/0019688"
+"401178IT",Bubble Gum,classic,summer,"806C","16/0019688"
+"401179DE",Hello Summer,classic,summer,"310C","14-0004366"
+"401190DE",Shhhh... Just Kiss Me,exclusive,summer,"0","16/0016801"
+"401190FR",Shhhh... Just Kiss Me,exclusive,summer,"0","16/0016801"
+"401193DE",Frozen Berries,classic,winter,"513C","1142803"
+"401193FR",Frozen Berries,classic,winter,"513C","1142803"
+"401193IT",Frozen Berries,classic,winter,"513C","1142803"
+"401193UK",Frozen Berries,classic,winter,"513C","1142803"
+"401195DE",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"401195FR",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"401195IT",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"401195UK",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"401196DE",Winter Sweets,classic,winter,"312C","281278"
+"401196FR",Winter Sweets,classic,winter,"312C","281278"
+"401196IT",Winter Sweets,classic,winter,"312C","281278"
+"401196UK",Winter Sweets,classic,winter,"312C","281278"
+"401197DE",Jingle Bells,classic,winter,"131C","1251400"
+"401197FR",Jingle Bells,classic,winter,"131C","1251400"
+"401197IT",Jingle Bells,classic,winter,"131C","1251400"
+"401198DE",Let it Snow,classic,winter,"2397C",PF97340
+"401198FR",Let it Snow,classic,winter,"2397C",PF97340
+"401198IT",Let it Snow,classic,winter,"2397C",PF97340
+"401198UK",Let it Snow,classic,winter,"2397C",PF97340
+"401199DE",Christmas Bakery,classic,winter,"211C",AR289591
+"401199FR",Christmas Bakery,classic,winter,"211C",AR289591
+"401199IT",Christmas Bakery,classic,winter,"211C",AR289591
+"401199UK",Christmas Bakery,classic,winter,"211C",AR289591
+"401200DE",Magic Melon,blogger,summer,"7549C","08/802566"
+"401201DE",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"401201FR",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"401201IT",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"401201UK",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"401202FR",Holly Chic,exclusive,winter,"0631C","21657F"
+"401203DE",La Vie En Rouge-or-Rosa-Rote Welt,exclusive,winter,"190C","13/0001429"
+"401203FR",La Vie En Rouge-or-Rosa-Rote Welt,exclusive,winter,"190C","13/0001429"
+"401205DE","You, Me, Chocolate",exclusive,winter,"0","11/0004395"
+"401205FR","You, Me, Chocolate",exclusive,winter,"0","11/0004395"
+"401207DE",Marzipan Joy,blogger,winter,"7499C","12/0002921"
+"401208DE",Cinnamon Star,blogger,winter,"2582C",A321174
+"401209DE",Mandarine Candy,blogger,winter,"179C",A255364
+"401217FR",Cozy Winter,blogger,winter,"7506C","30915F"
+"401218FR",Confidence,blogger,winter,"0","1251405"
+"40121DE",True Love,classic,all_year,"7427C","22951F"
+"401223DE",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"401223FR",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"401223IT",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"401223UK",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"40122DE",Candy Floss,classic,all_year,"1767C","11062F"
+"401232DE",MrsBella,blogger,summer,"427C","352637"
+"401234DE",So Berry,classic,summer,"7423C",R.171301.7
+"401234FR",So Berry,classic,summer,"7423C",R.171301.7
+"401234IT",So Berry,classic,summer,"7423C",R.171301.7
+"401235DE","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"401235FR","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"401235IT","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"401235UK","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"401236DE",Childhood Memories,classic,summer,"351C","19595F"
+"401236FR",Childhood Memories,classic,summer,"351C","19595F"
+"401236IT",Childhood Memories,classic,summer,"351C","19595F"
+"401236UK",Childhood Memories,classic,summer,"351C","19595F"
+"401237DE",Sugar Babe,classic,summer,"3572C",A310809
+"401237FR",Sugar Babe,classic,summer,"3572C",A310809
+"401237IT",Sugar Babe,classic,summer,"3572C",A310809
+"401237UK",Sugar Babe,classic,summer,"3572C",A310809
+"401238DE",Thai Orchid,classic,summer,"7437C","281280"
+"401238FR",Thai Orchid,classic,summer,"7437C","281280"
+"401238IT",Thai Orchid,classic,summer,"7437C","281280"
+"401238UK",Thai Orchid,classic,summer,"7437C","281280"
+"401239DE",Pina Colada,classic,summer,"0","29505F"
+"401239FR",Pina Colada,classic,summer,"0","29505F"
+"401239IT",Pina Colada,classic,summer,"0","29505F"
+"401239UK",Pina Colada,classic,summer,"0","29505F"
+"401243FR",Endless Love,blogger,summer,"0","343608"
+"40124DE",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"40125DE",Pink Cherry,classic,summer,"219C","26269F"
+"401266DE",Fresh Lychee,classic,winter,"2029C","08/801627"
+"401266FR",Fresh Lychee,classic,winter,"2029C","08/801627"
+"401266IT",Fresh Lychee,classic,winter,"2029C","08/801627"
+"401267DE",Cozy Fireplace,classic,winter,"0","17/0005045"
+"401267FR",Cozy Fireplace,classic,winter,"0","17/0005045"
+"401267IT",Cozy Fireplace,classic,winter,"0","17/0005045"
+"401268DE",Magical Winter,classic,winter,"7436C","19772F"
+"401268FR",Magical Winter,classic,winter,"7436C","19772F"
+"401268IT",Magical Winter,classic,winter,"7436C","19772F"
+"401269DE",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"401269FR",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"401270DE",La-la Llama,exclusive,winter,"719C","11814-489-3"
+"401270FR",La-la Llama,exclusive,winter,"719C","11814-489-3"
+"401270IT",La-la Llama,exclusive,winter,"719C","11814-489-3"
+"401271DE",Schoko-Minze,classic,winter,"344C","18/0001607"
+"401272DE",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"401272FR",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"401272IT",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"401273DE",Delicious Christmas,classic,winter,"7635C","17711F"
+"401274FR",Delicious Christmas,classic,winter,"7635C","17711F"
+"401274IT",Delicious Christmas,classic,winter,"7635C","17711F"
+"401275DE",Little Fox,exclusive,winter,"491C",SO018144
+"401275FR",Little Fox,exclusive,winter,"491C",SO018144
+"401275IT",Little Fox,exclusive,winter,"491C",SO018144
+"401276DE",Lady Skarlette,exclusive,winter,"1",SO018148
+"401276FR",Lady Skarlette,exclusive,winter,"1",SO018148
+"401276IT",Lady Skarlette,exclusive,winter,"1",SO018148
+"401279DE",Winter Castle,blogger,winter,"7436C","18798F"
+"40127DE",Cuddle Candle,classic,all_year,"278C","23418F"
+"401280DE",Winter Fantasy,blogger,winter,"0",AR309941
+"401281FR",Good Vibes Only,blogger,winter,"0","309493"
+"401284DE",Sweet Dream,promotional,winter,"658C","273035"
+"401284FR",Sweet Dream,promotional,winter,"658C","273035"
+"401284IT",Sweet Dream,promotional,winter,"658C","273035"
+"401286DE",Christmas Unicorn,exclusive,winter,"0","1251405"
+"401286FR",Christmas Unicorn,exclusive,winter,"0","1251405"
+"401288IT",Dolce Vita,exclusive,winter,"0","1251405"
+"401302UK",Pretty in Pink,classic,all_year,"1767C","255443"
+"401303UK",Rosy Glow,classic,all_year,"186C","273035"
+"401304UK",Pure and Simple,classic,all_year,"0","29383F"
+"401305UK",You Are My Sunshine,classic,all_year,"134C","17-0005326"
+"401315DE",Sangria Party,classic,summer,"148C",AL223571
+"401315FR",Sangria Party,classic,summer,"148C",AL223571
+"401315IT",Sangria Party,classic,summer,"148C",AL223571
+"401316DE",Fairy Dust,classic,summer,"2101C",AL223556
+"401316FR",Fairy Dust,classic,summer,"2101C",AL223556
+"401316IT",Fairy Dust,classic,summer,"2101C",AL223556
+"401317DE",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"401317FR",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"401317IT",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"401318DE",Life is a Beach,classic,summer,"284C",AL223563
+"401318FR",Life is a Beach,classic,summer,"284C",AL223563
+"401318IT",Life is a Beach,classic,summer,"284C",AL223563
+"40132FR",Creme Brulee,classic,summer,"7411C","13/0005751"
+"40132IT",Creme Brulee,classic,summer,"7411C","13/0005751"
+"40134DE",Strawberry Cupcake,classic,summer,"199C","20401F"
+"401359DE",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"401359FR",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"401359IT",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"401360DE",Sweet Surprise,classic,winter,"0",GG2698
+"401360FR",Sweet Surprise,classic,winter,"0",GG2698
+"401360IT",Sweet Surprise,classic,winter,"0",GG2698
+"40142DE",Fruity Watermelon,classic,summer,"702C","13/3714"
+"40149DE",Mulled Wine,classic,winter,"201C","12/0002487"
+"40149FR",Mulled Wine,classic,winter,"201C","12/0002487"
+"40149IT",Mulled Wine,classic,winter,"201C","12/0002487"
+"40151DE",Gingerbread,classic,winter,"181C","24263F"
+"40154DE",Vanilla Croissant,classic,winter,"7506C","17182F"
+"40155DE",Baked Apple,classic,winter,"185C","12/0002331"
+"40155FR",Baked Apple,classic,winter,"185C","12/0002331"
+"40163FR",Candy Floss,classic,all_year,"1767C","11062F"
+"40163IT",Candy Floss,classic,all_year,"1767C","11062F"
+"40163UK",Candy Floss,classic,all_year,"1767C","11062F"
+"40165DE",Merry Christmas,classic,winter,"341CP","12/0002198"
+"40165FR",Merry Christmas,classic,winter,"341CP","12/0002199"
+"40165IT",Merry Christmas,classic,winter,"341CP","12/0002200"
+"40166DE",Santa Claus,classic,winter,"032C","1142808"
+"40166FR",Santa Claus,classic,winter,"032C","1142808"
+"40166IT",Santa Claus,classic,winter,"032C","1142808"
+"40167FR",Cuddle Candle,classic,all_year,"278C","23418F"
+"40170DE",Candy Cane,classic,winter,"0","13/0001254"
+"40172DE",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"40172FR",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"40172IT",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"40172UK",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"40177FR",Candy Cane,classic,winter,"0","13/0001254"
+"40178FR",Gingerbread,classic,winter,"181C","24263F"
+"40178IT",Gingerbread,classic,winter,"181C","24263F"
+"40181FR",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"402221DE",Love You More,love,winter,"0","273035"
+"402221FR",Love You More,love,winter,"0","273035"
+"402221IT",Love You More,love,winter,"0","273035"
+"402260DE",Dream Team,exclusive,winter,"0","273035"
+"402307DE",Happy Easter,exclusive,winter,"7499C","285500"
+"402307FR",Happy Easter,exclusive,winter,"7499C","285500"
+"402307IT",Happy Easter,exclusive,winter,"7499C","285500"
+"402314DE",You Blow Me Away,exclusive,winter,"707C",R.181088.1
+"402314FR",You Blow Me Away,exclusive,winter,"707C",R.181088.1
+"402314IT",You Blow Me Away,exclusive,winter,"707C",R.181088.1
+"402319DE",Cookies are Love,collaborative,summer,"0","18/0000412"
+"402321DE",Lazy Sloth,exclusive,summer,"169C","293640"
+"402321FR",Lazy Sloth,exclusive,summer,"169C","293640"
+"402321IT",Lazy Sloth,exclusive,summer,"169C","293640"
+"402328DE","Don't Dream It, Do It!",blogger,summer,"0",PRX019332
+"402329DE",Arabian Nights,exclusive,summer,"0",GG1825
+"402329FR",Arabian Nights,exclusive,summer,"0",GG1825
+"402329IT",Arabian Nights,exclusive,summer,"0",GG1825
+"402333DE",Oh Happy Day,exclusive,summer,"0",EFF289784
+"402333FR",Oh Happy Day,exclusive,summer,"0",EFF289784
+"402333IT",Oh Happy Day,exclusive,summer,"0",EFF289784
+"402337DE",Elegance,premium,winter,"0",FF7386
+"402337FR",Elegance,premium,winter,"0",FF7386
+"402337IT",Elegance,premium,winter,"0",FF7386
+"402338DE",Beauty,premium,winter,"0",FF7385
+"402338FR",Beauty,premium,winter,"0",FF7385
+"402338IT",Beauty,premium,winter,"0",FF7385
+"402343DE",Charming,premium,winter,"0","1251405"
+"402343FR",Charming,premium,winter,"0","1251405"
+"402343IT",Charming,premium,winter,"0","1251405"
+"402344DE",Aloha California,promotional,summer,"0",EFF293381
+"402344FR",Aloha California,promotional,summer,"0",EFF293381
+"402347FR",Bohemian Chic,blogger,winter,"7506C","19-0001502"
+"402349FR",Lilac Cotton,blogger,winter,"0",GG0843;
+"402350DE",You're a Gentleman,exclusive,winter,"445C",E1922777
+"402350FR",You're a Gentleman,exclusive,winter,"445C",E1922777
+"402350IT",You're a Gentleman,exclusive,winter,"445C",E1922777
+"402352DE",Christmas Lights,classic,winter,"2728C",P0227777
+"402352FR",Christmas Lights,classic,winter,"2728C",P0227777
+"402352IT",Christmas Lights,classic,winter,"2728C",P0227777
+"402353DE",You are Wonderful,classic,winter,"1945C",P15H096
+"402353FR",You are Wonderful,classic,winter,"1945C",P15H096
+"402353IT",You are Wonderful,classic,winter,"1945C",P15H096
+"402354DE",Snowy Nights,classic,winter,"0",P28W443
+"402354FR",Snowy Nights,classic,winter,"0",P28W443
+"402354IT",Snowy Nights,classic,winter,"0",P28W443
+"402357DE",Owl I Need Is You,fantasy,winter,"271C",GG3304
+"402357FR",Owl I Need Is You,fantasy,winter,"271C",GG3304
+"402357IT",Owl I Need Is You,fantasy,winter,"271C",GG3304
+"402391DE",Snowy Unicorn,exclusive,winter,B4B5DF,GG3652
+"402391FR",Snowy Unicorn,exclusive,winter,B4B5DF,GG3652
+"402391IT",Snowy Unicorn,exclusive,winter,B4B5DF,GG3652
+"402400FR",Don't Know Don't Care,blogger,winter,"0",GG1830
+"403112DE",Sweetheart,sweetheart,all_year,"7425C","248067"
+"403112FR",Sweetheart,sweetheart,all_year,"7425C","248067"
+"40879DE",Adventskranz,exclusive,,,
+"41110DE",True Love,classic,all_year,"7427C","22951F"
+"41110FR",True Love,classic,all_year,"7427C","22951F"
+"41110IT",True Love,classic,all_year,"7427C","22951F"
+"41121DE",True Love,classic,all_year,"7427C","22951F"
+"411308DE",Iconic,premium,winter,"0",GG3021
+"411308FR",Iconic,premium,winter,"0",GG3021
+"411308IT",Iconic,premium,winter,"0",GG3021
+"411359DE",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"411359FR",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"411359IT",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"426127FR",La Boutique du Coiffeur,collaborative,winter,"0","239171"
+"50101DE",Cookies & Cream,classic,all_year,"7506C","18123F"
+"50101FR",Cookies & Cream,classic,all_year,"7506C","18123F"
+"50101IT",Cookies & Cream,classic,all_year,"7506C","18123F"
+"50102FR",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"50105DE",Happy Birthday,classic,all_year,"241C","18123F"
+"50105FR",Happy Birthday,classic,all_year,"241C","18123F"
+"50105IT",Happy Birthday,classic,all_year,"241C","18123F"
+"50107FR",Pink Cherry,classic,summer,"219C","26269F"
+"50108IT",Sweet Cupcake,classic,all_year,"7506C","16/0018876"
+"501109DE",Mango Melon Smoothie,classic,summer,"7549C",EAD26534/00
+"50110FR",True Love,classic,all_year,"7427C","22951F"
+"50110IT",True Love,classic,all_year,"7427C","22951F"
+"501110FR",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"501110IT",Lime Mint Sorbet,classic,summer,"2296C","238912"
+"501123DE",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"501123FR",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"501123IT",Marshmallow Fondue,classic,all_year,"510C","17-0005326"
+"501124FR",Blueberry Pancakes,classic,all_year,"7439C","07/701151"
+"501125DE",Sweet Angel,classic,winter,"1225C",A258752
+"501125FR",Sweet Angel,classic,winter,"1225C",A258752
+"501126FR",Speculoos Cookies,classic,winter,"7412C","335094"
+"501127DE",Winter Wonderland,classic,winter,"0","239171"
+"501127FR",Winter Wonderland,classic,winter,"0","239171"
+"501127IT",Winter Wonderland,classic,winter,"0","239171"
+"501128FR",Pistacio Macarons,classic,all_year,"7478C",A299191
+"501128IT",Pistacio Macarons,classic,all_year,"7478C",A299191
+"501136DE",Keep Calm & Relax,classic,all_year,"333C","13/0003799"
+"501137DE",Good Luck,classic,all_year,"2420C","15-0012354"
+"501138DE",My Favorite Person,classic,all_year,"1787C","22966F"
+"501138FR",My Favorite Person,classic,all_year,"1787C","22966F"
+"501139DE",Fluffy Cotton,classic,all_year,"0","29383F"
+"501139FR",Fluffy Cotton,classic,all_year,"0","29383F"
+"501139IT",Fluffy Cotton,classic,all_year,"0","29383F"
+"501140FR",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"501140IT",Raspberry Yoghurt,classic,summer,"190C","15107F"
+"501142FR",Fruity Smoothie,classic,summer,"205C","14-0002058"
+"501145DE",Tropical Peach,classic,summer,"134C",EAD26532/00
+"501145FR",Tropical Peach,classic,summer,"134C",EAD26532/00
+"501146DE",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"501146FR",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"501146IT",Monoi de Tahiti,classic,all_year,"0","17-0005692"
+"501157DE",Iced Blossom,classic,winter,"687C","17282F"
+"501157FR",Iced Blossom,classic,winter,"687C","17282F"
+"501157IT",Iced Blossom,classic,winter,"687C","17282F"
+"501161DE",Rain Drops,classic,all_year,"7710C","29391F"
+"501163DE",Snowflakes,classic,winter,"2455C","13/0005672"
+"501163FR",Snowflakes,classic,winter,"2455C","29300F"
+"501167FR",Just Fabulous,classic,summer,"310C","14-0004366"
+"501167IT",Just Fabulous,classic,summer,"310C","14-0004366"
+"501168FR",Caramel Dream,blogger,winter,"196C","13/0001254"
+"501169DE",Forget Me Not,classic,summer,"2365C","14/0001493"
+"501169FR",Forget Me Not,classic,summer,"2365C","14/0001493"
+"501169IT",Forget Me Not,classic,summer,"2365C","14/0001493"
+"501171FR","Bella, capricieuse, cute, funny, bad ass",classic,all_year,"805C","13/0002316"
+"501172DE",Juicy Mandarin,classic,summer,"170C","29673F"
+"501172FR",Juicy Mandarin,classic,summer,"170C","29673F"
+"501173IT",Matcha Latte,classic,summer,"2255C","13/0004738"
+"501174DE",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"501174FR",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"501174IT",Mulberry Mojito,classic,summer,"2582C","12-0003034"
+"501175DE",Pear Ice Cream,classic,summer,"580C","16/0018071"
+"501177FR",Cassis Sorbet,classic,summer,"2061C","14/0002304"
+"501178DE",Bubble Gum,classic,summer,"806C","16/0019688"
+"501178FR",Bubble Gum,classic,summer,"806C","16/0019688"
+"501180DE",Summer Love,classic,summer,"805C","14-0004366"
+"501193DE",Frozen Berries,classic,winter,"513C","1142803"
+"501193FR",Frozen Berries,classic,winter,"513C","1142803"
+"501193IT",Frozen Berries,classic,winter,"513C","1142803"
+"501195DE",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"501195FR",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"501195IT",Cozy & Lazy,classic,all_year,"2431C",PF93212
+"501196DE",Winter Sweets,classic,winter,"312C","281278"
+"501196FR",Winter Sweets,classic,winter,"312C","281278"
+"501196IT",Winter Sweets,classic,winter,"312C","281278"
+"501197DE",Jingle Bells,classic,winter,"131C","1251400"
+"501198DE",Let it Snow,classic,winter,"2397C",PF97340
+"501198FR",Let it Snow,classic,winter,"2397C",PF97340
+"501199DE",Christmas Bakery,classic,winter,"211C",AR289591
+"501199FR",Christmas Bakery,classic,winter,"211C",AR289591
+"501199IT",Christmas Bakery,classic,winter,"211C",AR289591
+"501201DE",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"501201IT",Moonlight Flowers,classic,winter,"644C","12/0002189"
+"50121DE",True Love,classic,all_year,"7427C","22951F"
+"501223DE",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"501223FR",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"501223IT",Lemon Cream Pie,classic,summer,"0131C","13/0000353"
+"50122DE",Candy Floss,classic,all_year,"1767C","11062F"
+"501234DE",So Berry,classic,summer,"7423C",R.171301.7
+"501234FR",So Berry,classic,summer,"7423C",R.171301.7
+"501234IT",So Berry,classic,summer,"7423C",R.171301.7
+"501235DE","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"501235FR","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"501235IT","Sun, Beach & Cocktail",classic,summer,"318C","281284"
+"501236DE",Childhood Memories,classic,summer,"351C","19595F"
+"501236FR",Childhood Memories,classic,summer,"351C","19595F"
+"501236IT",Childhood Memories,classic,summer,"351C","19595F"
+"501237DE",Sugar Babe,classic,summer,"3572C",A310809
+"501237FR",Sugar Babe,classic,summer,"3572C",A310809
+"501237IT",Sugar Babe,classic,summer,"3572C",A310809
+"501238DE",Thai Orchid,classic,summer,"7437C","281280"
+"501238FR",Thai Orchid,classic,summer,"7437C","281280"
+"501238IT",Thai Orchid,classic,summer,"7437C","281280"
+"501239DE",Pina Colada,classic,summer,"0","29505F"
+"501239FR",Pina Colada,classic,summer,"0","29505F"
+"501239IT",Pina Colada,classic,summer,"0","29505F"
+"50124DE",Creamy Vanilla,classic,all_year,"7506C",EAD26540/00
+"50125DE",Pink Cherry,classic,summer,"219C","26269F"
+"501266DE",Fresh Lychee,classic,winter,"2029C","08/801627"
+"501266FR",Fresh Lychee,classic,winter,"2029C","08/801627"
+"501267DE",Cozy Fireplace,classic,winter,"0","17/0005045"
+"501267FR",Cozy Fireplace,classic,winter,"0","17/0005045"
+"501268DE",Magical Winter,classic,winter,"7436C","19772F"
+"501268FR",Magical Winter,classic,winter,"7436C","19772F"
+"501269DE",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"501269FR",Hot Chestnut,classic,winter,"471C","12330-401-5"
+"501271DE",Schoko-Minze,classic,winter,"344C","18/0001607"
+"501272DE",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"501272FR",Soft Sandalwood,classic,winter,"136C","11592-401-6"
+"501273DE",Delicious Christmas,classic,winter,"7635C","17711F"
+"501278DE",Best Friend,blogger,winter,"0","2017030095"
+"50127DE",Cuddle Candle,classic,all_year,"278C","23418F"
+"501315DE",Sangria Party,classic,summer,"148C",AL223571
+"501316DE",Fairy Dust,classic,summer,"2101C",AL223556
+"501317DE",Tropical Like It‘s Hot!,classic,summer,"700C",AL223569
+"501318DE",Life is a Beach,classic,summer,"284C",AL223563
+"50132DE",Creme Brulee,classic,summer,"7411C","13/0005751"
+"50134DE",Strawberry Cupcake,classic,summer,"199C","20401F"
+"501359DE-B",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"501359FR-B",Creamy Cappuccino,classic,winter,"270C",PRX022406
+"501360DE-B",Sweet Surprise,classic,winter,"0",GG2698
+"501360FR-B",Sweet Surprise,classic,winter,"0",GG2698
+"501360IT-B",Sweet Surprise,classic,winter,"0",GG2698
+"50142DE",Fruity Watermelon,classic,summer,"702C","13/3714"
+"50149DE",Mulled Wine,classic,winter,"201C","12/0002487"
+"50149FR",Mulled Wine,classic,winter,"201C","12/0002487"
+"50154DE",Vanilla Croissant,classic,winter,"7506C","17182F"
+"50155DE",Baked Apple,classic,winter,"185C","12/0002331"
+"50155FR",Baked Apple,classic,winter,"185C","12/0002331"
+"50159IT",Strawberry Cupcake,classic,summer,"199C","20401F"
+"50163FR",Candy Floss,classic,all_year,"1767C","11062F"
+"50163IT",Candy Floss,classic,all_year,"1767C","11062F"
+"50165DE",Merry Christmas,classic,winter,"341CP","12/0002201"
+"50166DE",Santa Claus,classic,winter,"032C","1142808"
+"50167FR",Cuddle Candle,classic,all_year,"278C","23418F"
+"50172DE",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"50172FR",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"50172IT",Roasted Almonds,classic,winter,"7566CP",R.170497.5
+"50177FR",Candy Cane,classic,winter,"0","13/0001254"
+"50178FR",Gingerbread,classic,winter,"181C","24263F"
+"50181IT",Honey & Milk,classic,all_year,"3514C","15/0007582"
+"502324DE",Sparkle and Shine,collaborative,summer,"493C","26269F"
+"503112FR",Sweetheart,sweetheart,all_year,"7425C","248067"
+"601264DE",Coco Loco,exclusive,winter,"0","16/0018490"
+"601264FR",Coco Loco,exclusive,winter,"0","16/0018490"
+"601264IT",Coco Loco,exclusive,winter,"0","16/0018490"
+"602336DE",Tropical Vibes,exclusive,summer,"2965C","293638"
+"602336FR",Tropical Vibes,exclusive,summer,"2965C","293638"
+"602336IT",Tropical Vibes,exclusive,summer,"2965C","293638"
+"8008206DE",Adventskranz,exclusive,,,
+"9929372EU",Enchanting Forest,exclusive,winter,"",""

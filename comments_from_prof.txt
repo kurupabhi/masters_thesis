@@ -1,0 +1,21 @@
+Here are my comments:
+1.    Template of MPMD used and well formatted in general
+2.    Introduction and motivation too short
+3.    Concrete research questions missing
+4.    Number of citations is not good
+5.    It would be good to provide even more details to prove your
+expertise.
+6.    Additional value for the reader is limited
+7.    This draft does not prove your expertise in the field of MPMD
+studies. You can do better.
+I strongly recommend to focus more on the data science perspective! As
+for now I cannot see the how you are meeting the topic “Product
+Categorization for Customer Recommendation”
+-    Headlines are not self-explaining. Please do not use just one or two
+words
+-    Research questions not stated
+-    language not always appropriate in terms of scientific background
+-    You are just using internet resources
+-    It’s basically a starting point
+
+- You need please to consider as to write a book and not a short paper or presentation. Please go into the details and proof your expertise.
